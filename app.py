@@ -1,6 +1,6 @@
 from utils import (load_files, draw_base_map, grab_credentials,
-                    draw_house_base_map, update_house_base_map, predict_house_xgb, 
-                    draw_family_base_map, write_about, load_markdowns, 
+                    draw_house_base_map, update_house_base_map, predict_house_xgb,
+                    draw_family_base_map, write_about, load_markdowns,
                     load_app_header, family_demo_filter,load_neighbor_features,draw_store_map)
 
 import os, json, urllib
@@ -16,7 +16,7 @@ import dash_html_components as html
 try:
     import dash_bootstrap_components as dbc
 except:
-    os.system("pip install dash-bootstrap-components==1.1.1")
+    os.system("pip install dash-bootstrap-components==0.9.2")
     import dash_bootstrap_components as dbc
 
 try:
@@ -51,15 +51,15 @@ months = ['January', 'February', 'March', 'April', 'May', 'June', 'July',
 ###############################
 ## model_xgb_regressor.model ##
 ## XGB regressor parameters  ##
-# 'AREA_ABG', 'BATH_RMS', 'SALE_MONTH', 'AGE', 
-# 'STORY', 'LAND_SQFT', 'BED_RMS', 'GRD_AREA', 
-# 'ParkDist', 'DrugDist', 'StoreDist', 
-# 'AVG_HH_INC', 'SALE_YEAR', 'PER_CAPITA', 
+# 'AREA_ABG', 'BATH_RMS', 'SALE_MONTH', 'AGE',
+# 'STORY', 'LAND_SQFT', 'BED_RMS', 'GRD_AREA',
+# 'ParkDist', 'DrugDist', 'StoreDist',
+# 'AVG_HH_INC', 'SALE_YEAR', 'PER_CAPITA',
 # 'LESSTHANHS', 'BACHELORSO',
-# 'PCT_AGE65P', 'PER_COMM', 
-# 'Tree_Coverage', 'K12s', 'Intersects', 
-# 'PCT_VAC', 'Park_Coverage', 'Libraries', 
-# 'FoodStores', 'Marijuana', 'Crimes', 'PCT_AGELES', 
+# 'PCT_AGE65P', 'PER_COMM',
+# 'Tree_Coverage', 'K12s', 'Intersects',
+# 'PCT_VAC', 'Park_Coverage', 'Libraries',
+# 'FoodStores', 'Marijuana', 'Crimes', 'PCT_AGELES',
 # 'TrAccident', 'MaxPctRace', 'StLights', 'Colleges', 'Malls'
 ###############################
 
@@ -73,22 +73,22 @@ app.layout = html.Div([
     dcc.Tabs([
         dcc.Tab(
             label = 'Denver House',
-            className = 'custom-tab', 
+            className = 'custom-tab',
             selected_className = 'custom-tab--selected',
             children = [
                 dcc.Markdown(children = house_hunting_description),
 
                 html.Div([
-                    
+
                    html.Div([
-                        
+
                         html.Button('Check history', id = 'button-history', n_clicks = 0),
                         html.Button('See future', id = 'button-predict', n_clicks = 0),
 
 						# side bar to check hisotry
                         dbc.Card([
                             dbc.CardHeader('Search (leave blank if you do not have any preference)'),
-							
+
 							dbc.CardBody([ # neighborhood selection
                                 html.P('Neighborhood', className = 'card-title'),
                                 dbc.Row([
@@ -227,8 +227,8 @@ app.layout = html.Div([
                             html.Button('Confirm', id = 'confirm-history', n_clicks = 0),
                             html.Button('Reset', id = 'button-reset-history', n_clicks = 0),
 
-                        ], color='danger', outline = True, id = 'dropdown-history', style = {'display': 'none'}),						   
-                        
+                        ], color='danger', outline = True, id = 'dropdown-history', style = {'display': 'none'}),
+
                         # side bar to see future
                         dbc.Card([
                             dbc.CardHeader('Search (leave blank if you do not have any preference)'),
@@ -240,7 +240,7 @@ app.layout = html.Div([
                                             id = 'house-neighbor',
                                             options = [{'label': nbhd_name, 'value': nbhd_name} for nbhd_name in neighbor_prices['NBHD_NAME'].unique()],
                                             placeholder = 'Select from list'
-                                        ), 
+                                        ),
                                     ),
                                 ]),
                             ]),
@@ -401,23 +401,23 @@ app.layout = html.Div([
                         ], id = 'div-filter-table', style= {'display': 'none'}),
 
                     ], id = 'house-map-chart', className = 'eight columns', style = {'margin-top': 35, 'margin-right': 0}),
-                    
+
                     html.Div(id = 'house-info', className = 'two columns', style = {'margin-top': 35, 'margin-right': 0}),
 
                     html.Div(id = 'predict-table', style = {'display': 'none'}),
 
                 ], className = 'row')
-            ]),  
+            ]),
 
-        # neighborhood tab        
+        # neighborhood tab
         dcc.Tab(
-            label='Denver Neighborhood', 
-            className='custom-tab', 
+            label='Denver Neighborhood',
+            className='custom-tab',
             selected_className='custom-tab--selected',
-            children = [ 
+            children = [
                 dcc.Markdown('''
                     > *This page hosts the details of **Neighborhood features** (Median sales prices and homes sold record between 2000 and 2020, Neighborhood Amenities).*
-                    '''), 
+                    '''),
             html.Div([
                  # time series chart (5 cols) -- city level housing market information
                 html.Div([
@@ -441,7 +441,7 @@ app.layout = html.Div([
                         placeholder = 'Select Metrics',
                         style = {'margin-top': 5, 'margin-right': 30}
                     ),
-                    
+
                     dcc.Dropdown(
                         id = 'nbhd-info',
                         options = [
@@ -452,7 +452,7 @@ app.layout = html.Div([
                     ),
 
                     html.Div(id = 'neighbor-table', style = {'margin-left': 20, 'margin-right': 40, 'margin-top': 35}),
-                    
+
                     dcc.Graph(
                         id = 'neighbor-price-chart',
                         config = {'responsive': True, 'autosizable': True}
@@ -460,7 +460,7 @@ app.layout = html.Div([
                 ], className = 'four columns'),
 
                 # neighborhood map (7 cols)
-                html.Div([  
+                html.Div([
                     dcc.Graph(
                         id = 'denver-map',
                         figure = draw_base_map(json_neighbor, neighbor_prices,neighbor_house_record,[]),
@@ -471,7 +471,7 @@ app.layout = html.Div([
                 ),
             ],
             className = 'row', style = {'margin-right': 30, 'margin-top': 20, 'margin-left': 30}),
-            html.Div([ 
+            html.Div([
                     dcc.Markdown('>*Neighborhood Amenities*', id = 'stores-map-header', style = {'display': 'none'}),
                     dcc.Graph(
                         id = 'stores-map'
@@ -483,8 +483,8 @@ app.layout = html.Div([
 
         # city tab
         dcc.Tab(
-            label = 'Denver City',  
-            className = 'custom-tab', 
+            label = 'Denver City',
+            className = 'custom-tab',
             selected_className = 'custom-tab--selected',
             children = [
                 dcc.Markdown('> *This page hosts comparisons among similar cities with Denver.*'),
@@ -497,7 +497,7 @@ app.layout = html.Div([
                             dcc.Dropdown(
                                 id="nsc_met",
                                 options=[
-                                    {'value': metric, 'label': metric} 
+                                    {'value': metric, 'label': metric}
                                     for metric in metrics
                                 ],
                                 value='Median Sale Price',
@@ -508,7 +508,7 @@ app.layout = html.Div([
 
                         html.Div([
                             dcc.Graph(id='nsc')
-                            ], id = 'multi-level-comp-chart', style = {'margin-right': 10, 'margin-top': 50}), 
+                            ], id = 'multi-level-comp-chart', style = {'margin-right': 10, 'margin-top': 50}),
                         ], className = 'six columns', style = {'margin-right': 10, 'margin-left': 10},
                     ),
 
@@ -519,7 +519,7 @@ app.layout = html.Div([
                             dcc.Dropdown(
                                 id="cities",
                                 options=[
-                                    {'value': city, 'label': city} 
+                                    {'value': city, 'label': city}
                                     for city in cities if (city!="National" and city!="Colorado")
                                 ],
                                 value=['Denver, CO',"Portland, OR","Salt Lake City, UT"],
@@ -529,14 +529,14 @@ app.layout = html.Div([
                             dcc.Dropdown(
                                 id="ccc_met",
                                 options=[
-                                    {'value': metric, 'label': metric} 
+                                    {'value': metric, 'label': metric}
                                     for metric in metrics
                                 ],
                                 value='Median Sale Price',
                                 multi=False
                             ),
                         ], id = 'city-level-comp', style = {'margin-right': 50}),
-                        
+
                         html.Div([
                             dcc.Graph(id='ccc')
                         ], id = 'city-level-comp-chart', style = {'margin-right': 10} )
@@ -640,7 +640,7 @@ def select_from_house_map(sel_house, n_clicks, button_predict_clicks):
 
                 >Garden Area: *{:,.0f} sqft*
 
-                >Street View: 
+                >Street View:
 
                 >![Street View]({} 'Street View')
 
@@ -648,7 +648,7 @@ def select_from_house_map(sel_house, n_clicks, button_predict_clicks):
                 , row['STORY'].values[0], row['BED_RMS'].values[0], row['FULL_B'].values[0], row['HLF_B'].values[0], int(row['BSMT_AREA'].values[0]), int(row['FBSMT_SQFT'].values[0]), int(row['GRD_AREA'].values[0]),
                 pre_string+ '+'.join(row['SITUS_AD_1'].values[0].split()) + ',+Denver,+CO' + '+' + row['SITUS_ZIP'].values[0]+aft_string)
             for row in sel_house_df ]
-        
+
         data = html.Div([
             dbc.CardHeader("Sale Record"),
             dbc.CardBody(
@@ -690,14 +690,14 @@ def update_house_map(min_price, max_price, min_year, max_year, min_bed, max_bed,
         button_id = ctx.triggered[0]['prop_id'].split('.')[0]
 
     if nclicks == 0 or button_id == 'button-predict':
-        return [draw_house_base_map(json_neighbor, neighbor_house_record), {'height': '100%'}, {'display': 'none'}]  
+        return [draw_house_base_map(json_neighbor, neighbor_house_record), {'height': '100%'}, {'display': 'none'}]
     elif nclicks > 0 and confirm_sel > 0:
         json_filtered, family_demo_filtered = family_demo_filter(min_price, max_price, min_year, max_year, min_bed, max_bed, minarea, maxarea, minlot, maxlot, neighbor, story, family_demo, json_single_family)
         if neighbor is None:
             neighbor = 'Athmar Park'
         return [update_house_base_map(json_filtered, family_demo_filtered, json_neighbor, neighbor_house_record, neighbor), {'height': '100%'}, {'display': 'block'}]
     elif nclicks > 0 and confirm_sel == 0 and neighbor is None:
-        return [draw_house_base_map(json_neighbor, neighbor_house_record), {'height': '100%'}, {'display': 'block'}] 
+        return [draw_house_base_map(json_neighbor, neighbor_house_record), {'height': '100%'}, {'display': 'block'}]
     else:
         raise PreventUpdate
 
@@ -726,7 +726,7 @@ def filter_predict_table(minprice, maxprice, n_clicks, values):
             minprice = float(minprice)
         except ValueError:
             minprice = min_price
-        
+
         try:
             maxprice = float(maxprice)
         except ValueError:
@@ -784,7 +784,7 @@ def predict_house_price(neighbor, bed, bath, story, age, minarea, maxarea, minlo
                             html.Button('Filter Results', id = 'button-filter-record', n_clicks = 0),
                             dt.DataTable(id = 'pred-table', columns = [{"name": i, "id": i} for i in city_data.columns], data = city_data.to_dict("records")),
                         ], id = 'div-filter-table', style= {'display': 'none'}),
-                
+
             ],'', {'display': 'none'}
         ]
     elif n_clicks == 1 and confirm_sel == 0:
@@ -795,7 +795,7 @@ def predict_house_price(neighbor, bed, bath, story, age, minarea, maxarea, minlo
                         id = 'denver-house-map',
                         figure = draw_house_base_map(json_neighbor, neighbor_house_record),
                         style = {'height': '100%'}
-                    ), 
+                    ),
                     html.A('Download Table', id = 'save-table', style = {'display': 'none'}),
                     html.Div([
                         dcc.Input(id = "price-min", placeholder = 'Min ($)'),
@@ -822,7 +822,7 @@ def predict_house_price(neighbor, bed, bath, story, age, minarea, maxarea, minlo
             dcc.Markdown('> *Predicted Single Family House Price*, **{0!s}**, **{2:0>2}/{1!s}**'.format(neighbor, year, month)),
             dcc.Markdown('*Highest* Predicted Price at **${:,.0f}** with *{}* stories, *{}* bedrooms, *{}* bathrooms, *{:,.0f}sqft* above ground area, *{:,.0f}sqft* lot zize, {:,.0f} meter to closest park, and {:,.0f} meter to closest food stores.'
             .format(max_price['Predicted Price ($)'].values[0], max_price['Story'].values[0], max_price['Bedrooms'].values[0], max_price['Bathrooms'].values[0], max_price['Above Ground Area (sqft)'].values[0], max_price['Lot Size (sqft)'].values[0], max_price['Distance to Park (meters)'].values[0], max_price['Distance to Food Stores (meters)'].values[0])),
-            
+
             html.P(),
 
             dcc.Markdown('*Lowest* Predicted Price at **${:,.0f}** with *{}* stories, *{}* bedrooms, *{}* bathrooms, *{:,.0f}sqft* above ground area, *{:,.0f}sqft* lot zize, {:,.0f} meter to closest park, and {:,.0f} meter to closest food stores.'
@@ -832,7 +832,7 @@ def predict_house_price(neighbor, bed, bath, story, age, minarea, maxarea, minlo
             dcc.Input(id = "price-min", placeholder = 'Min ($)'),
             dcc.Input(id = "price-max", placeholder = 'Max ($)'),
             html.Button('Filter Results', id = 'button-filter-record', n_clicks = 0),
-            
+
             html.P(),
 
             dt.DataTable(
@@ -965,7 +965,7 @@ def select_from_map(sel_nbhd,curr_sel,curr_nbhd):
 def update_neighbor_map(sel_nbhd,sel_cli):
     ctx = dash.callback_context
     if len(sel_nbhd)==0 and sel_cli=={} and ctx=={}:
-		 
+
         raise PreventUpdate
     return draw_base_map(json_neighbor, neighbor_prices,neighbor_house_record,sel_nbhd)
 
@@ -1021,7 +1021,7 @@ def print_neighbor_table(sel_val1,sel_val2): # Inspired by https://dash.plotly.c
             data = df.to_dict("records"),
         ),
     ]
-    
+
 # callback to update neighbor price chart
 @app.callback(
     Output('neighbor-price-chart', 'figure'),
@@ -1065,7 +1065,7 @@ def update_neighbor_price_chart(sel_value,sel_met):
                                 {"frame": {"duration": 500, "redraw": True},
                                 "mode": "immediate",
                                 "transition": {"duration": 300},
-                                'visible': True}                               
+                                'visible': True}
                                 ],
                             "label": year,
                             "method": "animate",
@@ -1081,7 +1081,7 @@ def update_neighbor_price_chart(sel_value,sel_met):
             }],
             'frames': frames,
             'layout': {
-                'title': title, 
+                'title': title,
                 'hovermode': 'closest',
                 'showlegend': True,
                 'xaxis': {
@@ -1157,7 +1157,7 @@ def update_neighbor_price_chart(sel_value,sel_met):
     return {
         'data': price_data,
         'layout': {
-            'title': title+temp, 
+            'title': title+temp,
             'hovermode': 'closest',
             'xaxis': {
                 'title': {'text': 'Year', 'standoff': 10},
@@ -1201,7 +1201,7 @@ def update_fig_nsc(sel_met):
                             "x" : [mo[:3] for mo in months],
                             "y" : city_seasonality.loc[city_seasonality["City"]==city,met_temp],
                             "type" : "bar",
-                            "name" : city 
+                            "name" : city
                             })
             xa = {'title':'Month of the Year'}
             ya = {'title':"Normalized Pct",'type':'log'}
@@ -1212,7 +1212,7 @@ def update_fig_nsc(sel_met):
                             "x" : city_data.loc[city_data["Region"]==city,"Month of Period End"],
                             "y" : city_data.loc[city_data["Region"]==city,met],
                             "mode" : "markers+lines",
-                            "name" : city 
+                            "name" : city
                             })
         if met == "Median Sale Price":
             ya= {'title':'House Sales Prices (K$)'}
@@ -1252,7 +1252,7 @@ def update_city_fig_ccc(sel_city,sel_met):
                             "x" : [mo[:3] for mo in months],
                             "y" : city_seasonality.loc[city_seasonality["City"]==city,met_temp],
                             "type" : "bar",
-                            "name" : city 
+                            "name" : city
                             })
             xa = {'title':'Month of the Year'}
             ya = {'title':"Normalized Pct",'type':'log'}
@@ -1263,7 +1263,7 @@ def update_city_fig_ccc(sel_city,sel_met):
                             "x" : city_data.loc[city_data["Region"]==city,"Month of Period End"],
                             "y" : city_data.loc[city_data["Region"]==city,sel_met],
                             "mode" : "markers+lines",
-                            "name" : city 
+                            "name" : city
                             })
         if sel_met == "Median Sale Price":
             ya= {'title':'House Sales Prices (K$)'}
@@ -1279,7 +1279,7 @@ def update_city_fig_ccc(sel_city,sel_met):
                     "xaxis":xa,
                     "yaxis":ya
                 }
-            } 
+            }
 
 if __name__ == '__main__':
     #pass
