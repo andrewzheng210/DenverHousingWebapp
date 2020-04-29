@@ -31,7 +31,7 @@ import dash_html_components as html
 try:
     import dash_bootstrap_components as dbc
 except:
-    os.system("pip install dash-bootstrap-components==1.1.1")
+    os.system("pip install dash-bootstrap-components==0.9.2")
     import dash_bootstrap_components as dbc
 try:
     import plotly.graph_objects as go
