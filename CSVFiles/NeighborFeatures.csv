@@ -1,0 +1,1107 @@
+Name,Lon,Lat,NBHD_ID,NBRHD_NAME,Type
+7-Eleven,-104.871739,39.65441,32,Hampden,Food Store
+Dos Cunados,-104.870051,39.653775,32,Hampden,Food Store
+Conoco/Circle K,-104.912999,39.65444,32,Hampden,Food Store
+Diamond Shamrock,-104.907417,39.653467,32,Hampden,Food Store
+Shell,-104.904028,39.653532,32,Hampden,Food Store
+Twin Star Energy,-104.887317,39.653527,32,Hampden,Food Store
+Safeway,-104.913291,39.666283,32,Hampden,Food Store
+Target,-104.900178,39.654964,32,Hampden,Food Store
+Safeway Fuel,-104.912977,39.66699,32,Hampden,Food Store
+First Avenue Market,-104.99238,39.718495,3,Baker,Food Store
+La Tiendita,-104.996832,39.722832,3,Baker,Food Store
+Sunrise Foods,-104.993653,39.722832,3,Baker,Food Store
+7-Eleven,-104.998948,39.721191,3,Baker,Food Store
+7-Eleven,-104.987987,39.721292,3,Baker,Food Store
+7-Eleven,-104.989619,39.711488,3,Baker,Food Store
+Barn Store,-104.98798,39.711519,3,Baker,Food Store
+Dollar Tree,-104.987624,39.709042,3,Baker,Food Store
+Albertsons,-104.987652,39.710492,3,Baker,Food Store
+Colorado Nut Company,-104.999843,39.716841,3,Baker,Food Store
+Denver Urban Homesteading,-104.99827,39.719566,3,Baker,Food Store
+Lamar's Donuts,-104.99955,39.725465,3,Baker,Food Store
+Sams Club,-104.98769,39.707349,3,Baker,Food Store
+1st Avenue Market,-104.99238,39.718495,3,Baker,Food Store
+Kmart,-104.987659,39.70987,3,Baker,Food Store
+Diamond Shamrock,-104.973077,39.710888,70,Washington Park,Food Store
+Fooducopia,-104.964217,39.700323,70,Washington Park,Food Store
+7-Eleven,-104.95793,39.725418,13,Cherry Creek,Food Store
+Rite Aid,-104.951081,39.7174,13,Cherry Creek,Food Store
+Continental's Deli,-104.949465,39.720399,13,Cherry Creek,Food Store
+Whole Foods,-104.956783,39.718799,13,Cherry Creek,Food Store
+Duke's Corner Store,-104.954959,39.719513,13,Cherry Creek,Food Store
+Penzeys Spices,-104.953099,39.719793,13,Cherry Creek,Food Store
+Truffle,-104.953133,39.725492,13,Cherry Creek,Food Store
+Safeway,-104.950737,39.717035,13,Cherry Creek,Food Store
+Oliver's Meat Market,-104.966604,39.725452,22,Country Club,Food Store
+7-Eleven,-104.959429,39.764762,17,Clayton,Food Store
+Sahara Mini Market,-104.956798,39.764601,17,Clayton,Food Store
+Tommy's Market,-104.950766,39.764627,17,Clayton,Food Store
+7-Eleven,-104.940962,39.765392,17,Clayton,Food Store
+Walgreen,-104.940927,39.766607,17,Clayton,Food Store
+A Mart Store,-104.943475,39.771949,17,Clayton,Food Store
+Ben's Super Market,-104.959544,39.757175,55,Skyland,Food Store
+Frank's Food Mart,-104.946272,39.757102,55,Skyland,Food Store
+7-Eleven,-104.972977,39.745014,15,City Park West,Food Store
+7-Eleven,-104.963824,39.740284,15,City Park West,Food Store
+Namaste International Grcrs,-104.971789,39.740388,15,City Park West,Food Store
+Sinclair,-104.965101,39.740322,15,City Park West,Food Store
+7-Eleven,-104.967562,39.743477,15,City Park West,Food Store
+7-Eleven,-104.97501,39.733512,9,Capitol Hill,Food Store
+7-Eleven,-104.975104,39.73986,9,Capitol Hill,Food Store
+Capitol Hill Market,-104.979001,39.739775,9,Capitol Hill,Food Store
+City Store,-104.987263,39.733915,9,Capitol Hill,Food Store
+Jack Market,-104.980646,39.73984,9,Capitol Hill,Food Store
+Zak Market,-104.981487,39.739734,9,Capitol Hill,Food Store
+King Soopers,-104.973777,39.731541,9,Capitol Hill,Food Store
+Whole Foods,-104.975844,39.733266,9,Capitol Hill,Food Store
+Tony's Market,-104.987018,39.73136,9,Capitol Hill,Food Store
+Capitol Convenience,-104.979761,39.737014,9,Capitol Hill,Food Store
+7-Eleven,-104.980399,39.740145,47,North Capitol Hill,Food Store
+7-Eleven,-104.979603,39.743017,47,North Capitol Hill,Food Store
+Russell's,-104.986656,39.74284,47,North Capitol Hill,Food Store
+Russell's,-104.986921,39.743585,47,North Capitol Hill,Food Store
+Russell's,-104.985175,39.744538,47,North Capitol Hill,Food Store
+Russell's,-104.986766,39.741336,47,North Capitol Hill,Food Store
+Uptown Market,-104.981423,39.746987,47,North Capitol Hill,Food Store
+Urban Express,-104.986729,39.741231,47,North Capitol Hill,Food Store
+Marczyk Fine Foods,-104.977918,39.742991,47,North Capitol Hill,Food Store
+7-Eleven,-104.982516,39.74315,47,North Capitol Hill,Food Store
+Diamond Shamrock,-104.98785,39.732328,16,Civic Center,Food Store
+7-Eleven,-104.989095,39.741721,10,CBD,Food Store
+7-Eleven,-104.992022,39.747771,10,CBD,Food Store
+7-Eleven,-104.989584,39.743376,10,CBD,Food Store
+7-Eleven,-104.99371,39.750461,10,CBD,Food Store
+7-Eleven,-104.989758,39.746194,10,CBD,Food Store
+7-Eleven,-104.993922,39.746143,10,CBD,Food Store
+Russell's,-104.994687,39.74809,10,CBD,Food Store
+Russell's,-104.990262,39.740486,10,CBD,Food Store
+Russell's,-104.990622,39.747101,10,CBD,Food Store
+Russell's,-104.990386,39.745491,10,CBD,Food Store
+Russell's,-104.99134,39.749204,10,CBD,Food Store
+Russell's,-104.987861,39.742529,10,CBD,Food Store
+Russell's,-104.989585,39.747508,10,CBD,Food Store
+Pushupati Corner Store,-104.991535,39.741172,10,CBD,Food Store
+Rite Aid,-104.993106,39.745407,10,CBD,Food Store
+Cook's Fresh Market,-104.989781,39.744014,10,CBD,Food Store
+Walgreen,-104.993056,39.746037,10,CBD,Food Store
+Dollars & Sense,-104.989647,39.743513,10,CBD,Food Store
+7-Eleven,-104.99707,39.746428,10,CBD,Food Store
+Russell's,-104.988776,39.742805,10,CBD,Food Store
+7-Eleven,-104.997217,39.752063,63,Union Station,Food Store
+Market Snacks,-104.998179,39.750697,63,Union Station,Food Store
+Pacific Mercantile Co,-104.992754,39.751698,63,Union Station,Food Store
+Russell's,-104.99591,39.74921,63,Union Station,Food Store
+Sunlite Convenience Store,-104.993522,39.75126,63,Union Station,Food Store
+King Soopers,-104.998956,39.757235,63,Union Station,Food Store
+Evoo Marketplace,-104.999479,39.748768,63,Union Station,Food Store
+Smith & Truslow,-105.001562,39.749801,63,Union Station,Food Store
+The Market @ Larimer,-104.999087,39.74809,63,Union Station,Food Store
+Champa Food Store,-104.977033,39.759424,26,Five Points,Food Store
+Champa Food Store,-104.977033,39.759424,26,Five Points,Food Store
+Five Points Market,-104.977683,39.755231,26,Five Points,Food Store
+Front Range Markets,-104.989862,39.756794,26,Five Points,Food Store
+Hello Mini Mart,-104.982364,39.757936,26,Five Points,Food Store
+Town Grocery,-104.97361,39.757411,26,Five Points,Food Store
+Conoco,-104.984551,39.766533,26,Five Points,Food Store
+Mondo Market,-104.979796,39.76874,26,Five Points,Food Store
+Safeway,-104.977536,39.748966,26,Five Points,Food Store
+Amerigo Delicatus,-104.987022,39.757512,26,Five Points,Food Store
+Larimer St Market,-104.991637,39.753889,26,Five Points,Food Store
+Meathead,-104.979796,39.76874,26,Five Points,Food Store
+Tres Rios Agricultural Co-Op,-104.989948,39.761875,26,Five Points,Food Store
+Americanum Provisions,-104.979796,39.76874,26,Five Points,Food Store
+7-Eleven,-104.886451,39.747738,60,Stapleton,Food Store
+7-Eleven,-104.865153,39.77248,60,Stapleton,Food Store
+Conoco,-104.847512,39.770745,60,Stapleton,Food Store
+Diamond Shamrock,-104.846578,39.770191,60,Stapleton,Food Store
+Walgreen,-104.902524,39.759686,60,Stapleton,Food Store
+Target,-104.894589,39.78544,60,Stapleton,Food Store
+King Soopers,-104.901847,39.7566,60,Stapleton,Food Store
+Euro Cafe and Market,-104.892648,39.779735,60,Stapleton,Food Store
+Sams Club,-104.898098,39.76627,60,Stapleton,Food Store
+Walmart,-104.901246,39.770642,60,Stapleton,Food Store
+Salwan Market,-105.01316,39.762273,36,Highland,Food Store
+7-Eleven,-105.017813,39.769035,36,Highland,Food Store
+Conoco,-105.016183,39.756716,36,Highland,Food Store
+Leever's / Save A Lot,-105.019624,39.768842,36,Highland,Food Store
+Variety Supermarket,-105.002814,39.765758,36,Highland,Food Store
+Rosales Bakery,-105.019742,39.761908,36,Highland,Food Store
+Savory Spice Shop,-105.008749,39.757215,36,Highland,Food Store
+Sara Grocery & Laundry,-105.002609,39.769106,36,Highland,Food Store
+7-Eleven,-104.978175,39.782048,29,Globeville,Food Store
+C Store,-104.9787,39.778773,29,Globeville,Food Store
+Western Convenience,-104.977803,39.788465,29,Globeville,Food Store
+Panaderia Emmanuel,-104.980979,39.778179,29,Globeville,Food Store
+Custom Superfresh Poultry,-104.975907,39.787518,29,Globeville,Food Store
+Westernkamp's Mercado Rizo,-104.977957,39.789259,29,Globeville,Food Store
+7-Eleven,-104.958993,39.672782,66,University Park,Food Store
+Weaver's Automotive,-104.952641,39.678723,66,University Park,Food Store
+Natural Grocer - Vitamin Cottage,-104.940927,39.679415,66,University Park,Food Store
+Holiday Auto Care - Shamrock,-104.941008,39.690902,21,Cory - Merrill,Food Store
+Loaf N Jug,-104.940892,39.689577,21,Cory - Merrill,Food Store
+Bonnie Brae Drug Store,-104.954379,39.692799,21,Cory - Merrill,Food Store
+Safeway,-104.940861,39.6866,21,Cory - Merrill,Food Store
+Walgreen,-104.941041,39.696077,21,Cory - Merrill,Food Store
+Sprouts Farmers Market,-104.985286,39.696866,71,Washington Park West,Food Store
+Whole Foods,-104.979828,39.695707,71,Washington Park West,Food Store
+Bradley Petroleum,-104.97371,39.711354,59,Speer,Food Store
+Family Dollar,-104.987132,39.723507,59,Speer,Food Store
+Walgreen,-104.987212,39.718942,59,Speer,Food Store
+7-Eleven,-104.980187,39.711262,59,Speer,Food Store
+Nooch Vegan Market,-104.987035,39.716467,59,Speer,Food Store
+Conoco,-104.980738,39.722298,59,Speer,Food Store
+Safeway,-104.973509,39.724981,59,Speer,Food Store
+Trader Joe's,-104.982416,39.726632,59,Speer,Food Store
+Conoco,-104.941079,39.72879,20,Congress Park,Food Store
+Capitol Heights Pharmacy,-104.945841,39.735258,20,Congress Park,Food Store
+Pappas Grocery Store - 12th Avenue Market & Deli,-104.955825,39.735051,20,Congress Park,Food Store
+New World Cheese,-104.957134,39.739978,20,Congress Park,Food Store
+La Tienda Garcia,-104.967703,39.764341,18,Cole,Food Store
+Novedades Sanches,-104.967499,39.764372,18,Cole,Food Store
+York Market,-104.960098,39.764255,18,Cole,Food Store
+Sam's Grocery - Star Sam Grocery,-104.965745,39.763116,18,Cole,Food Store
+K & G Store,-104.972978,39.766207,18,Cole,Food Store
+Dollar Tree,-104.972682,39.763938,18,Cole,Food Store
+Abarrotes Le Herradura,-104.968654,39.764661,18,Cole,Food Store
+Downing Supermarket,-104.973289,39.764063,18,Cole,Food Store
+Carniceria Jalisco,-104.972956,39.763508,18,Cole,Food Store
+Golden Gate Market,-104.966097,39.768252,18,Cole,Food Store
+7-Eleven,-105.024892,39.769585,62,Sunnyside,Food Store
+For Every Day Store,-105.006843,39.779893,62,Sunnyside,Food Store
+Friendly Market,-105.006628,39.771625,62,Sunnyside,Food Store
+Sunnyside Drug,-105.001499,39.780398,62,Sunnyside,Food Store
+7-Eleven,-105.00218,39.769714,62,Sunnyside,Food Store
+7-Eleven,-105.00594,39.782336,62,Sunnyside,Food Store
+Tejon Market,-105.011573,39.776362,62,Sunnyside,Food Store
+Canino's Sausage Co Inc,-104.999019,39.776901,62,Sunnyside,Food Store
+Sunnyside Market,-105.011508,39.776794,62,Sunnyside,Food Store
+AA&H Diamond,-105.015255,39.696475,54,Ruby Hill,Food Store
+Florida Gas Station,-105.024597,39.689751,54,Ruby Hill,Food Store
+Texaco (Super Save),-105.024568,39.68924,54,Ruby Hill,Food Store
+Family Dollar,-105.024278,39.692229,54,Ruby Hill,Food Store
+Store Perez,-105.008432,39.69646,54,Ruby Hill,Food Store
+Lowes Mercado,-105.024279,39.692228,54,Ruby Hill,Food Store
+Tortilleria Colorado,-105.013339,39.696508,54,Ruby Hill,Food Store
+7-Eleven,-104.968437,39.678252,64,University,Food Store
+Conoco,-104.959766,39.679981,64,University,Food Store
+Walgreen,-104.972589,39.679443,64,University,Food Store
+Safeway,-104.972513,39.677622,64,University,Food Store
+Adventist Book Center,-104.973155,39.670699,64,University,Food Store
+7-Eleven,-104.921859,39.678145,30,Goldsmith,Food Store
+Monaco Mini Market,-104.912748,39.676955,30,Goldsmith,Food Store
+Conoco/Circle K,-104.912747,39.677388,30,Goldsmith,Food Store
+Solo Gas,-104.912786,39.668593,30,Goldsmith,Food Store
+Dollar Tree,-104.912959,39.676756,30,Goldsmith,Food Store
+Walgreen,-104.914198,39.678204,30,Goldsmith,Food Store
+Jerusalem International Market,-104.924304,39.678231,30,Goldsmith,Food Store
+Walmart Neighborhood Market,-104.913002,39.676501,30,Goldsmith,Food Store
+Crumbles Bakery,-104.912748,39.676955,30,Goldsmith,Food Store
+Dijla Halal Market,-104.932037,39.678288,30,Goldsmith,Food Store
+Bradley Petroleum,-104.922626,39.67791,30,Goldsmith,Food Store
+1st Stop,-104.921912,39.68091,69,Virginia Village,Food Store
+Farm Crest Milk Stores,-104.921912,39.68091,69,Virginia Village,Food Store
+All American Gas,-104.921923,39.689072,69,Virginia Village,Food Store
+Circle K,-104.940238,39.687151,69,Virginia Village,Food Store
+Conoco/Circle K,-104.940237,39.685987,69,Virginia Village,Food Store
+Fast & Friendly Food Mart,-104.922743,39.689587,69,Virginia Village,Food Store
+Family Dollar,-104.923461,39.68998,69,Virginia Village,Food Store
+East Europe Market,-104.939846,39.691303,69,Virginia Village,Food Store
+Atlanta Bread Company,-104.933488,39.698921,69,Virginia Village,Food Store
+Detour Bakery,-104.923576,39.689797,69,Virginia Village,Food Store
+Diamond Shamrock,-104.940258,39.676403,65,University Hills,Food Store
+Middle East Market,-104.94035,39.675458,65,University Hills,Food Store
+Sprouts Farmers Market,-104.940546,39.663855,65,University Hills,Food Store
+King Soopers,-104.937305,39.666538,65,University Hills,Food Store
+Sawa Meat & Sausage,-104.940146,39.674308,65,University Hills,Food Store
+Rite Aid,-104.940025,39.664426,65,University Hills,Food Store
+Marwa Market,-105.043181,39.740069,74,West Colfax,Food Store
+Walgreen,-105.052642,39.740784,74,West Colfax,Food Store
+7-Eleven,-105.032772,39.740619,74,West Colfax,Food Store
+7-Eleven,-105.038966,39.740065,74,West Colfax,Food Store
+Q Superette K,-105.033857,39.740617,74,West Colfax,Food Store
+Family Dollar,-105.025248,39.745646,74,West Colfax,Food Store
+Mi Pueblo Market,-105.0279211,39.739915,74,West Colfax,Food Store
+7-Eleven,-105.04773,39.74013,74,West Colfax,Food Store
+7-Eleven,-105.029658,39.769135,75,West Highland,Food Store
+Circle K,-105.034976,39.769285,75,West Highland,Food Store
+Conoco,-105.043706,39.76913,75,West Highland,Food Store
+Family Dollar,-105.025716,39.761347,75,West Highland,Food Store
+Botanica Yemaya,-105.025664,39.768971,75,West Highland,Food Store
+Walgreen,-105.025685,39.760088,75,West Highland,Food Store
+Gluten Free Goods,-105.046167,39.760044,75,West Highland,Food Store
+Happy Cakes,-105.033132,39.761888,75,West Highland,Food Store
+Seafood Landing,-105.03384,39.762365,75,West Highland,Food Store
+St Kilian's Cheese Shop,-105.034947,39.762367,75,West Highland,Food Store
+Sprouts Farmers Market,-105.047643,39.769339,75,West Highland,Food Store
+7-Eleven,-104.929382,39.652732,58,Southmoor Park,Food Store
+Safeway,-104.929801,39.652196,58,Southmoor Park,Food Store
+Duffey's Bakery,-104.929084,39.652295,58,Southmoor Park,Food Store
+7-Eleven,-104.899093,39.740476,24,East Colfax,Food Store
+Grocery Store,-104.893728,39.740323,24,East Colfax,Food Store
+East Colfax Sinclair,-104.892063,39.740451,24,East Colfax,Food Store
+7-Eleven,-104.885026,39.733062,24,East Colfax,Food Store
+East African Convenience,-104.892472,39.74,24,East Colfax,Food Store
+T's Food Market,-104.890855,39.739876,24,East Colfax,Food Store
+Syracuse Market,-104.899149,39.733714,24,East Colfax,Food Store
+New Discount Stores,-104.884727,39.733748,24,East Colfax,Food Store
+Family Asia Market,-104.885479,39.739857,24,East Colfax,Food Store
+Family Dollar,-104.897863,39.740094,24,East Colfax,Food Store
+Todd's Pharmacy,-104.977751,39.670294,53,Rosedale,Food Store
+Mountain Man,-104.984623,39.675494,53,Rosedale,Food Store
+7-Eleven,-104.959055,39.74033,14,City Park,Food Store
+7-Eleven,-104.95041,39.740417,14,City Park,Food Store
+Conoco/Circle K,-104.941082,39.740546,14,City Park,Food Store
+Sprouts Farmers Market,-104.945042,39.740559,14,City Park,Food Store
+Sun Mart,-104.958475,39.740457,14,City Park,Food Store
+Albertsons,-104.902587,39.720886,42,Lowry Field,Food Store
+Savory Spice Shop,-104.903447,39.72043,42,Lowry Field,Food Store
+Tippett Beef Patti,-104.899833,39.720467,42,Lowry Field,Food Store
+Bradley Petroleum,-105.049785,39.656275,35,Harvey Park South,Food Store
+Dollar Tree,-105.052766,39.654617,35,Harvey Park South,Food Store
+King Soopers,-105.048303,39.655654,35,Harvey Park South,Food Store
+7-Eleven,-104.77271,39.781967,28,Gateway / Green Valley Ranch,Food Store
+Circle K,-104.809036,39.775507,28,Gateway / Green Valley Ranch,Food Store
+Conoco/Circle K,-104.808959,39.774682,28,Gateway / Green Valley Ranch,Food Store
+Family Dollar,-104.774828,39.783079,28,Gateway / Green Valley Ranch,Food Store
+Walgreen,-104.770683,39.783433,28,Gateway / Green Valley Ranch,Food Store
+King Soopers,-104.770029,39.784882,28,Gateway / Green Valley Ranch,Food Store
+Aztlan,-104.809053,39.786122,28,Gateway / Green Valley Ranch,Food Store
+Discount Empire Inc,-104.809596,39.785291,28,Gateway / Green Valley Ranch,Food Store
+Safeway,-104.808876,39.786134,28,Gateway / Green Valley Ranch,Food Store
+AB Petroleum,-105.052758,39.724332,5,Barnum West,Food Store
+Carniceria Guadalajara,-105.052728,39.718594,5,Barnum West,Food Store
+Walgreen,-104.915703,39.73961,46,Montclair,Food Store
+King Soopers,-104.916209,39.738511,46,Montclair,Food Store
+Safeway,-104.915592,39.737532,46,Montclair,Food Store
+Awash Grocery Store,-104.904421,39.739527,46,Montclair,Food Store
+7-10 Market,-104.904258,39.739871,46,Montclair,Food Store
+7-Eleven,-104.903897,39.727094,46,Montclair,Food Store
+Monaco Grocery,-104.91082,39.739734,46,Montclair,Food Store
+Beth Shell,-104.914279,39.739872,46,Montclair,Food Store
+Safeway Fuel,-104.916484,39.738079,46,Montclair,Food Store
+7-Eleven,-104.915984,39.738779,46,Montclair,Food Store
+7-Eleven,-104.980747,39.693225,51,Platt Park,Food Store
+Barn Store,-104.987154,39.686022,51,Platt Park,Food Store
+Azucar Sweet Shop & Bakery,-104.987197,39.682478,51,Platt Park,Food Store
+Florida Avenue Market,-105.043388,39.689749,43,Mar Lee,Food Store
+7-Eleven,-105.025414,39.689812,43,Mar Lee,Food Store
+Dollar Depot,-105.042022,39.690468,43,Mar Lee,Food Store
+Dollar Tree,-105.044096,39.690566,43,Mar Lee,Food Store
+Ana's Meat Market,-105.026008,39.690768,43,Mar Lee,Food Store
+Leever's / Save A Lot,-105.042829,39.690414,43,Mar Lee,Food Store
+King Soopers,-105.051947,39.690469,43,Mar Lee,Food Store
+Anastasia's Desserts,-105.052872,39.691935,43,Mar Lee,Food Store
+Indus Imports,-105.025364,39.694452,43,Mar Lee,Food Store
+Tortilleria Victoria,-105.043893,39.690662,43,Mar Lee,Food Store
+7-Eleven,-105.05256,39.682466,43,Mar Lee,Food Store
+Walgreen,-105.025757,39.68907,43,Mar Lee,Food Store
+Heng's and Ing's,-105.026135,39.69661,43,Mar Lee,Food Store
+Tri Ocean Seafood,-105.025742,39.695486,43,Mar Lee,Food Store
+Gloria Abbarrotes Market,-105.049119,39.699912,76,Westwood,Food Store
+Kentucky Supermarket,-105.027231,39.700677,76,Westwood,Food Store
+Tienda de Sandoval,-105.039412,39.706565,76,Westwood,Food Store
+Conoco,-105.032115,39.710646,76,Westwood,Food Store
+Sam's Corner Store,-105.025475,39.700788,76,Westwood,Food Store
+Sheridan Jiffy Stop,-105.052908,39.700739,76,Westwood,Food Store
+Hong Duc LLC,-105.025462,39.699514,76,Westwood,Food Store
+Abarrote Angelito Quetzal,-105.038331,39.70697,76,Westwood,Food Store
+Hau Giang Market,-105.025419,39.696946,76,Westwood,Food Store
+Hong Phat Market Inc,-105.025326,39.698428,76,Westwood,Food Store
+L & P Seafood,-105.025418,39.697422,76,Westwood,Food Store
+Panaderia Contreras,-105.034675,39.709539,76,Westwood,Food Store
+Store Perez,-105.031631,39.710898,76,Westwood,Food Store
+Panaderia Santa Cruz,-105.034021,39.709989,76,Westwood,Food Store
+88 Market,-105.025488,39.709088,76,Westwood,Food Store
+Carniceria La Sierra,-105.02772,39.710908,76,Westwood,Food Store
+Indochina Ginseng Co,-105.025428,39.697586,76,Westwood,Food Store
+Vinh Xuong Bakery,-105.025773,39.710081,76,Westwood,Food Store
+Abarrotes Medina,-105.0430504,39.70335218,76,Westwood,Food Store
+Little Saigon Market,-105.025107,39.709554,76,Westwood,Food Store
+7-Eleven,-104.912772,39.703074,72,Washington Virginia Vale,Food Store
+Diamond Shamrock/Corner Store,-104.912433,39.698757,72,Washington Virginia Vale,Food Store
+Gas Plus,-104.912387,39.702106,72,Washington Virginia Vale,Food Store
+Shop Fast,-104.912508,39.710941,72,Washington Virginia Vale,Food Store
+Dollar Tree,-104.9215,39.705918,72,Washington Virginia Vale,Food Store
+M & I International Market,-104.909009,39.699734,72,Washington Virginia Vale,Food Store
+Marhaba International Market,-104.908695,39.700679,72,Washington Virginia Vale,Food Store
+Merhaba International Market,-104.908695,39.700679,72,Washington Virginia Vale,Food Store
+Natural Grocer - Vitamin Cottage,-104.926096,39.708494,72,Washington Virginia Vale,Food Store
+King Soopers,-104.912715,39.700541,72,Washington Virginia Vale,Food Store
+Dulce & Canela Bakery,-104.911291,39.702246,72,Washington Virginia Vale,Food Store
+European Mart,-104.926743,39.708454,72,Washington Virginia Vale,Food Store
+Les Delices De Paris,-104.9215,39.705918,72,Washington Virginia Vale,Food Store
+Joe's Meat & Produce,-104.907522,39.69888,72,Washington Virginia Vale,Food Store
+California Bakery,-104.909009,39.699734,72,Washington Virginia Vale,Food Store
+Villa Park Market,-105.031798,39.733181,68,Villa Park,Food Store
+Bradley Petroleum,-105.053571,39.733348,68,Villa Park,Food Store
+Family Dollar,-105.052615,39.732877,68,Villa Park,Food Store
+Fruteria LA Mexicana,-105.052572,39.728345,68,Villa Park,Food Store
+Perry Market,-105.03902,39.725867,68,Villa Park,Food Store
+Jerry's Market,-105.032864,39.726297,68,Villa Park,Food Store
+Marczyk Fine Foods,-104.927749,39.73979,31,Hale,Food Store
+Trader Joe's,-104.940427,39.729023,31,Hale,Food Store
+Shola Market,-104.937898,39.739969,31,Hale,Food Store
+Tienda Salvadorena,-104.927234,39.73979,31,Hale,Food Store
+7-Eleven,-104.939685,39.728958,31,Hale,Food Store
+Fairfax Market,-104.928412,39.757228,48,North Park Hill,Food Store
+Family Dollar,-104.940219,39.757334,48,North Park Hill,Food Store
+Spinelli,-104.933304,39.751181,48,North Park Hill,Food Store
+Oneida Food Mart,-104.908546,39.750418,57,South Park Hill,Food Store
+7-Eleven,-104.940124,39.741161,57,South Park Hill,Food Store
+Diamond Shamrock,-104.923913,39.740477,57,South Park Hill,Food Store
+East Colfax BP,-104.903772,39.7405,57,South Park Hill,Food Store
+Twin Star Energy,-104.939843,39.740685,57,South Park Hill,Food Store
+Dollar Tree,-104.930388,39.740659,57,South Park Hill,Food Store
+Ethiopian Culture Mesob Market,-104.91736,39.7406,57,South Park Hill,Food Store
+Merkato Market,-104.904326,39.740412,57,South Park Hill,Food Store
+Blue Nile Gas Express - Ivory Market,-104.860755,39.659721,40,Kennedy,Food Store
+B Cigarettes & Convenience Store,-105.023993,39.682029,19,College View / South Platte,Food Store
+Mini Market,-105.024651,39.662433,19,College View / South Platte,Food Store
+Barn Store,-105.024819,39.665112,19,College View / South Platte,Food Store
+7-Eleven,-105.024681,39.673642,19,College View / South Platte,Food Store
+7-Eleven,-105.023673,39.678231,19,College View / South Platte,Food Store
+Conoco West Evans,-105.024611,39.678227,19,College View / South Platte,Food Store
+Diamond Shamrock,-105.024686,39.668289,19,College View / South Platte,Food Store
+United Mart,-105.024599,39.679041,19,College View / South Platte,Food Store
+Family Dollar,-105.024498,39.665958,19,College View / South Platte,Food Store
+Campos Market,-105.01233,39.678958,19,College View / South Platte,Food Store
+Super Carniceria Compare,-105.024497,39.665889,19,College View / South Platte,Food Store
+Las 3 Americas Tortilleria,-105.024578,39.677453,19,College View / South Platte,Food Store
+King Soopers,-105.021537,39.679616,19,College View / South Platte,Food Store
+7-Eleven,-104.895058,39.637656,33,Hampden South,Food Store
+Circle K,-104.885319,39.651349,33,Hampden South,Food Store
+Conoco Yosemite,-104.88434,39.652782,33,Hampden South,Food Store
+Dollar Tree,-104.896945,39.637715,33,Hampden South,Food Store
+Family Dollar,-104.883264,39.652019,33,Hampden South,Food Store
+Walgreen,-104.905079,39.652645,33,Hampden South,Food Store
+King Soopers,-104.914327,39.653043,33,Hampden South,Food Store
+Whole Foods,-104.900591,39.652928,33,Hampden South,Food Store
+Omaha Steak Stores,-104.916267,39.65215,33,Hampden South,Food Store
+Conoco,-104.88434,39.652782,33,Hampden South,Food Store
+Holly Food Mart,-104.923317,39.763644,49,Northeast Park Hill,Food Store
+Conoco Mile High,-104.924328,39.774412,49,Northeast Park Hill,Food Store
+Diamond Shamrock/Corner Store,-104.94018,39.765312,49,Northeast Park Hill,Food Store
+Malmart #1,-104.940173,39.764784,49,Northeast Park Hill,Food Store
+Mountain Fresh Market,-104.927164,39.770788,49,Northeast Park Hill,Food Store
+Sawa Meat & Sausage,-104.910821,39.772156,49,Northeast Park Hill,Food Store
+El Duranguense Groceries,-104.966802,39.78203,25,Elyria Swansea,Food Store
+El Tepetate Market,-104.955605,39.779865,25,Elyria Swansea,Food Store
+Jerry's Round The Corner,-104.954467,39.776557,25,Elyria Swansea,Food Store
+Stop N Shop,-104.958928,39.780307,25,Elyria Swansea,Food Store
+7-Eleven,-104.967009,39.781674,25,Elyria Swansea,Food Store
+7-Eleven,-104.949351,39.778771,25,Elyria Swansea,Food Store
+Conoco,-104.941259,39.77324,25,Elyria Swansea,Food Store
+Pilot Travel Center,-104.948729,39.781464,25,Elyria Swansea,Food Store
+Singles Market Place,-104.972962,39.774078,25,Elyria Swansea,Food Store
+Growhaus,-104.959867,39.782663,25,Elyria Swansea,Food Store
+Swansea Corner Store,-104.951492,39.789284,25,Elyria Swansea,Food Store
+Panaderia Y Restaurante Sanchez,-104.9549,39.779655,25,Elyria Swansea,Food Store
+Silver State Meats,-104.967558,39.789739,25,Elyria Swansea,Food Store
+7-Eleven,-104.991842,39.690383,50,Overland,Food Store
+7-Eleven,-104.987919,39.687813,50,Overland,Food Store
+Barn Store,-104.987845,39.694497,50,Overland,Food Store
+Circle K,-104.993027,39.689902,50,Overland,Food Store
+Vincent Convenience Market,-104.964408,39.739861,12,Cheesman Park,Food Store
+Family Dollar,-104.966873,39.73968,12,Cheesman Park,Food Store
+Walgreen,-104.963127,39.739432,12,Cheesman Park,Food Store
+Conoco Capitol Hill,-104.966342,39.739751,12,Cheesman Park,Food Store
+Pete's Fruits & Vegetables,-104.922029,39.712883,37,Hilltop,Food Store
+Cheese Co,-104.922706,39.721347,37,Hilltop,Food Store
+American Way Market,-105.002033,39.733811,41,Lincoln Park,Food Store
+Rio Grande Grocery Store,-105.002436,39.729132,41,Lincoln Park,Food Store
+Santa Fe Convenience Store,-104.998287,39.727135,41,Lincoln Park,Food Store
+U Mart Food Store,-104.999236,39.729113,41,Lincoln Park,Food Store
+7-Eleven,-104.99891,39.733957,41,Lincoln Park,Food Store
+AB Petroleum,-104.998283,39.726171,41,Lincoln Park,Food Store
+Circle K,-105.003606,39.739656,41,Lincoln Park,Food Store
+Smith's Food & Drug Ctr,-104.998827,39.730217,41,Lincoln Park,Food Store
+King Soopers,-104.997834,39.737656,41,Lincoln Park,Food Store
+Mr G's Neighborhood Grocery,-104.996786,39.729162,41,Lincoln Park,Food Store
+I Love It Market,-105.004669,39.745717,2,Auraria,Food Store
+Conoco/Circle K,-105.010443,39.745535,2,Auraria,Food Store
+AB Petroleum,-104.941064,39.711075,7,Belcaro,Food Store
+Waterway Gas & Wash,-104.941826,39.707729,7,Belcaro,Food Store
+7-Eleven,-104.939994,39.696827,7,Belcaro,Food Store
+King Soopers,-104.940843,39.701504,7,Belcaro,Food Store
+Diamond Shamrock,-104.871086,39.70956,78,Windsor,Food Store
+Walgreen,-104.902812,39.699214,78,Windsor,Food Store
+7-Eleven,-105.025683,39.75511,56,Sloan Lake,Food Store
+7-Eleven,-105.052879,39.7533,56,Sloan Lake,Food Store
+Mile High Convenience,-105.025589,39.74915,56,Sloan Lake,Food Store
+Diamond Shamrock,-105.025661,39.747332,56,Sloan Lake,Food Store
+Los Barron,-105.025578,39.751087,56,Sloan Lake,Food Store
+TT Food Mart,-105.044311,39.758209,56,Sloan Lake,Food Store
+7-Eleven,-105.052878,39.776923,8,Berkeley,Food Store
+Tennyson Sun Mart,-105.044156,39.770869,8,Berkeley,Food Store
+1st Stop,-105.036113,39.776921,8,Berkeley,Food Store
+Conoco,-105.025622,39.783559,8,Berkeley,Food Store
+Safeway Fuel,-105.03491,39.776458,8,Berkeley,Food Store
+Valero,-105.05286,39.778095,8,Berkeley,Food Store
+Safeway,-105.036935,39.77606,8,Berkeley,Food Store
+Belfiore Genuine Italian Sausage,-105.034272,39.771336,8,Berkeley,Food Store
+Natural Grocer - Vitamin Cottage,-105.0489585,39.771815,8,Berkeley,Food Store
+Regis Convenience Store,-105.035068,39.787585,52,Regis,Food Store
+Longmont Meats,-105.026604,39.789909,52,Regis,Food Store
+Family Dollar,-105.024703,39.732751,61,Sun Valley,Food Store
+N J Trading,-105.024783,39.729954,61,Sun Valley,Food Store
+Pasteles Espinosa,-105.024107,39.730089,61,Sun Valley,Food Store
+7-Eleven,-105.024629,39.733242,61,Sun Valley,Food Store
+Safeway Fuel,-105.024379,39.755437,39,Jefferson Park,Food Store
+Speer Phillips 66,-105.016296,39.756252,39,Jefferson Park,Food Store
+Safeway,-105.024379,39.755435,39,Jefferson Park,Food Store
+7-Eleven,-105.024748,39.723154,67,Valverde,Food Store
+7-Eleven,-105.014166,39.711526,67,Valverde,Food Store
+AB Petroleum,-105.003044,39.711529,67,Valverde,Food Store
+Jas Food Mart,-105.024931,39.722337,67,Valverde,Food Store
+Phillips 66,-105.018338,39.724105,67,Valverde,Food Store
+Tortillas Caseras,-105.024572,39.718659,67,Valverde,Food Store
+Mini Mart,-105.008871,39.711017,1,Athmar Park,Food Store
+Panaderia Los Leales,-105.02469,39.706998,1,Athmar Park,Food Store
+1st Stop,-105.012305,39.697091,1,Athmar Park,Food Store
+7-Eleven,-105.024676,39.700612,1,Athmar Park,Food Store
+Family Dollar,-105.01093,39.697265,1,Athmar Park,Food Store
+Athmar Market,-105.008982,39.697067,1,Athmar Park,Food Store
+New Saigon Market,-105.024726,39.697494,1,Athmar Park,Food Store
+Pacific Ocean Intl Supermarket,-105.01385,39.710074,1,Athmar Park,Food Store
+Alpine Sausage Co.,-105.003363,39.708189,1,Athmar Park,Food Store
+Baker's Palace,-105.024689,39.706649,1,Athmar Park,Food Store
+La Noria Carniceria Taqueria,-105.01173,39.697414,1,Athmar Park,Food Store
+New Saigon Bakery & Deli,-105.024691,39.704777,1,Athmar Park,Food Store
+Panaderia Castaneda,-105.01163,39.697336,1,Athmar Park,Food Store
+Vinh Xyong Bakery,-105.015316,39.710956,1,Athmar Park,Food Store
+Store Perez  1 Carcineria,-105.024692,39.707717,1,Athmar Park,Food Store
+Conoco ACS,-104.994789,39.696916,1,Athmar Park,Food Store
+Tortilleria la Pasadita,-105.024757,39.699745,1,Athmar Park,Food Store
+Dollar Tree,-105.024782,39.790432,11,Chaffee Park,Food Store
+Dollars City,-105.007082,39.784801,11,Chaffee Park,Food Store
+Leever's / Save A Lot,-105.005719,39.784969,11,Chaffee Park,Food Store
+7-Eleven,-105.024785,39.78896,11,Chaffee Park,Food Store
+Bradley Petroleum,-105.02479,39.787728,11,Chaffee Park,Food Store
+Tanay @ Conoco,-105.024623,39.785249,11,Chaffee Park,Food Store
+Family Dollar,-105.005727,39.784287,11,Chaffee Park,Food Store
+7-Eleven,-105.053673,39.675409,34,Harvey Park,Food Store
+Country Gas,-105.025915,39.680409,34,Harvey Park,Food Store
+Phillips Petroleum Co,-105.053721,39.681918,34,Harvey Park,Food Store
+Family Dollar,-105.026128,39.680382,34,Harvey Park,Food Store
+Leever's / Save A Lot,-105.026088,39.680444,34,Harvey Park,Food Store
+Safeway,-105.054618,39.681331,34,Harvey Park,Food Store
+Encanto Botanica,-105.026128,39.680382,34,Harvey Park,Food Store
+San Antonia Fresh Mexican Bakery & Juice Bar,-105.026128,39.680382,34,Harvey Park,Food Store
+Super 99 Cents,-105.056182,39.677967,34,Harvey Park,Food Store
+7-Eleven,-105.032839,39.718401,4,Barnum,Food Store
+Quick Stop Food Mart,-105.025477,39.716752,4,Barnum,Food Store
+Mi Pueblo Market,-105.032838,39.718741,4,Barnum,Food Store
+Panaderia Mexico,-105.035754,39.718394,4,Barnum,Food Store
+Carniceria Zacatecas,-105.032103,39.717874,4,Barnum,Food Store
+Gem Supermarket,-104.972996,39.759146,77,Whittier,Food Store
+Lincoln Market,-104.966959,39.753067,77,Whittier,Food Store
+Ma Convenience,-104.966316,39.76056,77,Whittier,Food Store
+Papa's Corner Market,-104.968825,39.758477,77,Whittier,Food Store
+7-Eleven,-104.847803,39.783106,45,Montbello,Food Store
+7-Eleven,-104.846229,39.778576,45,Montbello,Food Store
+7-Eleven,-104.842412,39.780539,45,Montbello,Food Store
+Conoco,-104.84759,39.777675,45,Montbello,Food Store
+Shell,-104.846568,39.78075,45,Montbello,Food Store
+Family Dollar,-104.848191,39.782854,45,Montbello,Food Store
+Chihuahua Carniceria,-104.8465937,39.78104095,45,Montbello,Food Store
+Chambers Gas & Wash,-104.810793,39.784306,45,Montbello,Food Store
+Walmart Neighborhood Market,-104.809556,39.785584,45,Montbello,Food Store
+Z-Mart,-104.8242,39.790605,45,Montbello,Food Store
+Diamond Shamrock,-105.087432,39.630572,44,Marston,Food Store
+Littleton My Mart,-105.108905,39.633709,44,Marston,Food Store
+Big Lots,-105.087881,39.618222,44,Marston,Food Store
+Walmart,-105.083055,39.638644,44,Marston,Food Store
+Sprouts Farmers Market,-105.094357,39.615828,44,Marston,Food Store
+Sams Club,-105.08818,39.629528,44,Marston,Food Store
+Costco,-105.0824,39.638313,44,Marston,Food Store
+K-Stop Gas and Groceries,-105.035098,39.638189,27,Fort Logan,Food Store
+7-Eleven,-105.080714,39.665716,6,Bear Valley,Food Store
+1st Stop,-105.080782,39.663939,6,Bear Valley,Food Store
+Bear Valley Conoco,-105.053595,39.65649,6,Bear Valley,Food Store
+Walmart,-105.054417,39.655333,6,Bear Valley,Food Store
+Walgreen,-105.054148,39.657676,6,Bear Valley,Food Store
+Hampden Library,-104.875034,39.654329,32,Hampden,Library
+Ross-Cherry Creek Library,-104.952206,39.721061,13,Cherry Creek,Library
+Central Library,-104.987289,39.738433,9,Capitol Hill,Library
+Blair-Caldwell Library,-104.981649,39.752018,26,Five Points,Library
+Sam Gary Library,-104.900995,39.759043,60,Stapleton,Library
+Ross-Broadway Library,-104.987118,39.714774,59,Speer,Library
+Virginia Village Library,-104.931697,39.689323,69,Virginia Village,Library
+Ross-University Hills Library,-104.937772,39.665419,65,University Hills,Library
+"Rodolfo ""Corky"" Gonzalez Branch Library",-105.029389,39.739919,74,West Colfax,Library
+Woodbury Library,-105.025244,39.762792,75,West Highland,Library
+Schlessman Family Library,-104.904956,39.718372,42,Lowry Field,Library
+Bear Valley Library,-105.051642,39.656165,35,Harvey Park South,Library
+Green Valley Ranch Library,-104.766843,39.784925,28,Gateway / Green Valley Ranch,Library
+Decker Library,-104.982792,39.689398,51,Platt Park,Library
+Hadley Library,-105.026214,39.68243,43,Mar Lee,Library
+Westwood Library,-105.034443,39.69852,76,Westwood,Library
+Park Hill Library,-104.932769,39.747403,57,South Park Hill,Library
+Pauline Robinson Library,-104.922732,39.763805,49,Northeast Park Hill,Library
+Valdez-Perry Library,-104.962405,39.781799,25,Elyria Swansea,Library
+Byers Library,-104.998594,39.72691,41,Lincoln Park,Library
+Eugene Field Library,-104.959333,39.701826,7,Belcaro,Library
+Smiley Library,-105.045128,39.780243,8,Berkeley,Library
+Athmar Park Library,-105.012738,39.697461,1,Athmar Park,Library
+Ross-Barnum Library,-105.034566,39.718154,4,Barnum,Library
+Ford-Warren Library,-104.964723,39.757299,77,Whittier,Library
+Montbello Library,-104.840621,39.779866,45,Montbello,Library
+Merchants Park Shopping Center,-104.98859,39.70471,3,Merchants Park Shopping Center,Shopping Center
+Cherry Creek Shopping Center,-104.95248,39.71749,13,Cherry Creek Shopping Center,Shopping Center
+Union Station Shopping Center,-105.00026,39.75388,63,Union Station,Shopping Center
+Roydale Shopping Center,-104.87331,39.76999,60,Roydale,Shopping Center
+Boulevard Shopping Center,-104.9422,39.68721,21,Boulevard Shopping Center,Shopping Center
+Russell Square Shopping Center,-104.96165,39.76749,18,Russell Square,Shopping Center
+University Hills Mall,-104.93942,39.66665,65,University Hills Mall,Shopping Center
+University Hills Plaza,-104.93887,39.67027,65,University Hills Plaza,Shopping Center
+Happy Canyon Shopping Center,-104.92831,39.65193,58,Happy Canyon Shopping Center,Shopping Center
+Bear Valley Shopping Center,-105.05026,39.65499,35,Bear Valley Shopping Center,Shopping Center
+Mar Lee Manor Shopping Center,-105.04359,39.6911,43,Mar Lee Manor Shopping Center,Shopping Center
+Sheridan Shopping Center,-105.05304,39.69415,43,Sheridan Shopping Center,Shopping Center
+Belcaro Shopping Center,-104.94137,39.70276,7,Belcaro Shopping Center,Shopping Center
+Saint Elizabeth Retreat,-105.02304,39.75693,39,Saint Elizabeth Retreat,Shopping Center
+Alameda Square Shopping Center,-105.01387,39.7086,1,Alameda Square Shopping Center,Shopping Center
+Athmar Park Shopping Center,-105.0097,39.69749,1,Athmar Park Shopping Center,Shopping Center
+Chaffee Park Shopping Center,-105.0072,39.78471,11,Chaffee Park Shopping Center,Shopping Center
+Brentwood Plaza Shopping Center,-105.02609,39.68027,34,Brentwood Plaza Shopping Center,Shopping Center
+Lincoln Shopping Center,-105.02637,39.67471,34,Lincoln Shopping Center,Shopping Center
+Altitude Wellness Center. LLC,-104.885193,39.654828,32,Hampden,Marijuana
+Green Cross LLC,-104.908381,39.653876,32,Hampden,Marijuana
+"Beyond Broadway, LLC",-104.987616,39.709331,3,Baker,Marijuana
+High Country Supply LLC,-104.997783,39.710341,3,Baker,Marijuana
+"Cannabis King, LLC",-104.990005,39.712119,3,Baker,Marijuana
+"Ares Strategies, Inc",-104.987717,39.716975,3,Baker,Marijuana
+D & D Consulting Inc,-104.995183,39.714791,3,Baker,Marijuana
+Summit Wellness,-104.989997,39.71389,3,Baker,Marijuana
+"Mile High Wellness II, LLC",-104.997783,39.710341,3,Baker,Marijuana
+Karmaceuticals LLC,-104.99637,39.707682,3,Baker,Marijuana
+Wanna LLC,-104.999667,39.711261,3,Baker,Marijuana
+Cure Medical Pharm Inc.,-105.00662,39.725376,3,Baker,Marijuana
+"Gm Santa Fe, LLC",-104.996511,39.707912,3,Baker,Marijuana
+"Denco, LLC",-104.969106,39.740473,15,City Park West,Marijuana
+"Magna Marketing, Inc",-104.986659,39.730326,9,Capitol Hill,Marijuana
+"Abundant Health Denver, LLC",-104.987396,39.738459,9,Capitol Hill,Marijuana
+"Jvjc Holdings II, LLC",-104.985612,39.727423,9,Capitol Hill,Marijuana
+Sweetwater Partners LLC,-104.98561,39.740108,47,North Capitol Hill,Marijuana
+"Herbal Health, LLC",-104.993448,39.736993,16,Civic Center,Marijuana
+"Alternative Medicine On The Mall, LLC",-104.996544,39.748533,10,CBD,Marijuana
+Js Investments LLC,-104.989601,39.743545,10,CBD,Marijuana
+"The Green Solution, LLC",-104.997921,39.756697,63,Union Station,Marijuana
+"1617 Wazee Street, LLC",-104.999795,39.751578,63,Union Station,Marijuana
+"Compassionate Care Givers, Inc",-105.000287,39.750624,63,Union Station,Marijuana
+Botanico Inc,-104.979467,39.762947,26,Five Points,Marijuana
+"Denver Patients Group, LLC",-104.982033,39.761321,26,Five Points,Marijuana
+"Pi Arapahoe, LLC",-104.989814,39.752031,26,Five Points,Marijuana
+Silverpeak Corp,-104.974011,39.767343,26,Five Points,Marijuana
+Summit Wellness,-104.991195,39.754371,26,Five Points,Marijuana
+"Universal Herbs, LLC",-104.984953,39.752419,26,Five Points,Marijuana
+Rino Supply Co Inc,-104.980582,39.764548,26,Five Points,Marijuana
+"Dkc, LLC",-104.978974,39.754266,26,Five Points,Marijuana
+"Compassionate Care Givers, Inc",-104.991708,39.752605,26,Five Points,Marijuana
+"Colorado Farms, Inc",-104.856414,39.772911,60,Stapleton,Marijuana
+"Rjj Highlands, LLC",-105.013139,39.762193,36,Highland,Marijuana
+"Simply Pure Colorado, LLC",-105.011321,39.761897,36,Highland,Marijuana
+"Doctor'S Orders, LLC",-105.003265,39.76911,36,Highland,Marijuana
+Mhfs LLC,-105.01137,39.75828,36,Highland,Marijuana
+Delta-9 Delights LLC,-104.986559,39.77918,29,Globeville,Marijuana
+"Denco, LLC",-104.986559,39.77918,29,Globeville,Marijuana
+"505 Center, LLC",-104.994236,39.771742,29,Globeville,Marijuana
+"Kgbi Colorado, LLC",-104.977198,39.784092,29,Globeville,Marijuana
+Timberline Herbal Clinic & Wellness Center LLC,-104.979172,39.787402,29,Globeville,Marijuana
+"Nutritional Elements, LLC",-104.940704,39.66843,66,University Park,Marijuana
+"Lightshade Labs, LLC",-104.97799,39.725883,59,Speer,Marijuana
+"Caregivers For Life, LLC",-104.950924,39.727136,20,Congress Park,Marijuana
+"Discount Medical Marijuana, LLC",-104.948932,39.740157,20,Congress Park,Marijuana
+"Twog-Walnut, LLC",-104.971286,39.770364,18,Cole,Marijuana
+"Urban Health & Wellness, Inc.",-105.020332,39.769467,62,Sunnyside,Marijuana
+"The Giving Tree Of Denver, LLC",-105.02087,39.769411,62,Sunnyside,Marijuana
+The Ounce Depot LLC,-104.996862,39.693065,54,Ruby Hill,Marijuana
+"Bud Bum, LLC",-104.998036,39.693074,54,Ruby Hill,Marijuana
+Kta LLC,-105.025046,39.69255,54,Ruby Hill,Marijuana
+"Citi-Med, LLC",-104.971552,39.678497,64,University,Marijuana
+"Green Around You Mergerco, LLC",-104.908261,39.677245,30,Goldsmith,Marijuana
+"Treatments Unlimited, LLC",-104.904867,39.677916,30,Goldsmith,Marijuana
+Gmc Colorado L&I LLC,-104.918814,39.653209,65,University Hills,Marijuana
+"Medicinal Wellness Center, LLC",-104.935031,39.67846,65,University Hills,Marijuana
+"Cjj Services, LLC",-104.935031,39.67846,65,University Hills,Marijuana
+Holly Medicinal Services LLC,-104.940438,39.679749,65,University Hills,Marijuana
+"Cannabis For Health, LLC",-105.048972,39.740644,74,West Colfax,Marijuana
+Southwest Alternative Care LLC,-105.039087,39.740498,74,West Colfax,Marijuana
+Highlands Wellness Center LLC,-105.033711,39.762,75,West Highland,Marijuana
+"3B-38, LLC",-105.039677,39.769307,75,West Highland,Marijuana
+Rme Group LLC,-104.897902,39.740446,24,East Colfax,Marijuana
+"Urban Cannabis II, LLC",-104.973439,39.678512,53,Rosedale,Marijuana
+"Pioneer Interests Colfax, LLC",-104.950602,39.74039,14,City Park,Marijuana
+"Serenity Moon Wellness Center, LLC",-104.911069,39.740087,46,Montclair,Marijuana
+Greener Pasture Compassion Center LLC,-104.911069,39.740087,46,Montclair,Marijuana
+"Wdg, Inc.",-104.911069,39.740087,46,Montclair,Marijuana
+"4625 East Colfax, LLC",-104.911069,39.740087,46,Montclair,Marijuana
+Hadcav Enterprises Inc.,-104.911069,39.740087,46,Montclair,Marijuana
+"Dragon Partners, LLC",-104.911069,39.740087,46,Montclair,Marijuana
+"Metro Cannabis, Inc.",-104.911069,39.740087,46,Montclair,Marijuana
+Solace Meds- Colfax LLC,-104.911069,39.740087,46,Montclair,Marijuana
+Hobby Farms LLC,-104.987454,39.688037,51,Platt Park,Marijuana
+"Bk Holdings, LLC",-104.987454,39.688037,51,Platt Park,Marijuana
+Wash Park Boutique LLC,-104.987454,39.688037,51,Platt Park,Marijuana
+"2251Sb, LLC",-104.987454,39.688037,51,Platt Park,Marijuana
+"Mile High Medical Cannabis, LLC",-104.987454,39.688037,51,Platt Park,Marijuana
+E2T2 LLC,-104.987454,39.688037,51,Platt Park,Marijuana
+"The Herbal Cure, LLC",-104.982804,39.68764,51,Platt Park,Marijuana
+"High Country Supply, LLC.",-104.987454,39.688037,51,Platt Park,Marijuana
+"Herbal Alternatives, LLC",-104.987454,39.688037,51,Platt Park,Marijuana
+"Dgs, Inc.",-104.987454,39.688037,51,Platt Park,Marijuana
+"Sweetwater Partners, LLC",-104.987454,39.688037,51,Platt Park,Marijuana
+"Ganja Gourmet, LLC",-104.987454,39.688037,51,Platt Park,Marijuana
+Co-Agronomics LLC,-104.987454,39.688037,51,Platt Park,Marijuana
+Solace Meds Broadway LLC,-104.987454,39.688037,51,Platt Park,Marijuana
+Back To The Garden Health & Wellness Center LLC,-104.987454,39.688037,51,Platt Park,Marijuana
+"Mile High Dispensary, LLC",-105.053203,39.684363,43,Mar Lee,Marijuana
+"Lightshade Labs, LLC",-105.053203,39.684363,43,Mar Lee,Marijuana
+Stone T.M.C. LLC,-105.039701,39.70635,76,Westwood,Marijuana
+Silverpeak Corp,-105.025931,39.711066,76,Westwood,Marijuana
+"Royal Asset Management, LLC",-105.025931,39.711066,76,Westwood,Marijuana
+"The Green Solution, LLC",-105.025931,39.711066,76,Westwood,Marijuana
+"Rjj Morrison II, LLC",-105.039701,39.70635,76,Westwood,Marijuana
+"Wellness Center Of The Rockies, Inc",-104.910729,39.7012,72,Washington Virginia Vale,Marijuana
+"Ascend II, LLC",-104.885426,39.651831,33,Hampden South,Marijuana
+"Smoked Colorado, Inc.",-104.992281,39.676684,50,Overland,Marijuana
+"Natures Cure III, LLC",-104.969201,39.73982,12,Cheesman Park,Marijuana
+"The Green Solution, LLC",-104.924594,39.721628,37,Hilltop,Marijuana
+Colorado Cannabis Company LLC,-104.990179,39.728145,41,Lincoln Park,Marijuana
+"A Cut Off The Top Medical Marijuana, LLC",-105.01244,39.731357,41,Lincoln Park,Marijuana
+Eagle River Investments LLC,-104.954685,39.696587,7,Belcaro,Marijuana
+"Serenity Moon Wellness Center, LLC",-104.943486,39.705199,7,Belcaro,Marijuana
+"Levels IV, Inc",-105.053596,39.784059,52,Regis,Marijuana
+"Platte Valley Dispensary, LLC",-105.01455,39.752253,39,Jefferson Park,Marijuana
+Personalized Organic Treatments LLC,-105.013189,39.72026,67,Valverde,Marijuana
+"Two G-Federal, LLC",-105.025069,39.699236,1,Athmar Park,Marijuana
+"Mile High Therapeutic Network, LLC",-105.025069,39.699236,1,Athmar Park,Marijuana
+Ria Holdings Limited,-105.001461,39.707559,1,Athmar Park,Marijuana
+"Greenfields, LLC",-104.996795,39.696688,1,Athmar Park,Marijuana
+"Universal Herbs, LLC",-104.999208,39.707905,1,Athmar Park,Marijuana
+"American Industry, LLC",-105.025069,39.699236,1,Athmar Park,Marijuana
+Concentrate LLC,-105.025237,39.719753,4,Barnum,Marijuana
+"3B-Federal1, LLC",-105.025237,39.719753,4,Barnum,Marijuana
+Lyons Finest Confidential Care LLC,-104.85485,39.782377,45,Montbello,Marijuana
+"Shred Investments, LLC",-104.814245,39.784895,45,Montbello,Marijuana
+"R.D. Industries II, LLC",-104.856636,39.778791,45,Montbello,Marijuana
+"Jvt Enterprises, Inc.",-105.109825,39.62881,44,Marston,Marijuana
+"Rjj Sheridan, LLC",-105.052353,39.639584,27,Fort Logan,Marijuana
+Beach Court Elementary School(Public Elementary),-105.0177989,39.78623934,11,Chaffee Park,K-12
+Lincoln(Head Start Elementary),-105.0035781,39.77803446,62,Sunnyside,K-12
+Little Friends(Daycare Elementary),-105.0243725,39.77979728,62,Sunnyside,K-12
+St Catherine Of Siena School(Private Elementary-Middle),-105.0248886,39.77489974,62,Sunnyside,K-12
+Quigg Newton Head Start Rocky Mountain Ser(Head Start Elementary),-105.0035733,39.77796111,62,Sunnyside,K-12
+Trevista Ece-8 At Horace Mann(Public Elementary-Middle),-105.0035716,39.77363404,62,Sunnyside,K-12
+Columbian Elementary School(Public Elementary),-105.0235865,39.77262358,62,Sunnyside,K-12
+Casino Dealers School Of Colorado(Private College),-105.0228274,39.77643922,62,Sunnyside,College
+International Wine And Spirits Guild(Private College),-105.0058797,39.78084339,62,Sunnyside,College
+Apache(Head Start Elementary),-105.0035709,39.77809753,62,Sunnyside,K-12
+Catholic Charities - Quigg Newton(Head Start Elementary),-105.0035926,39.77817571,62,Sunnyside,K-12
+Strive Prep - Sunnyside(Public Middle),-105.0069197,39.78224166,62,Sunnyside,K-12
+Sunnyside(Head Start Elementary),-105.0161369,39.77676569,62,Sunnyside,K-12
+Sewall Child Development Center - Smedley Elementary School(Daycare Elementary),-105.0091051,39.77499562,62,Sunnyside,K-12
+Northside Headstart(Head Start Elementary),-105.0068469,39.76657565,36,Highland,K-12
+Rocky Mountain Ser Elaine Jackson(Head Start Elementary),-105.0068184,39.76640914,36,Highland,K-12
+Valdez Elementary School(Public Elementary),-105.0184503,39.75905397,36,Highland,K-12
+Galvanize - Denver Platte(Private College),-105.0071688,39.7578262,36,Highland,College
+Ergun Tercan Advanced Hair Academy(Private College),-105.0109636,39.75733627,36,Highland,College
+Contemporary Learning Academy(Public Middle-High),-105.0141454,39.75691098,36,Highland,K-12
+Highland Wrap(Head Start Elementary),-105.0067526,39.76642275,36,Highland,K-12
+Highland(Head Start Elementary),-105.0070306,39.76661322,36,Highland,K-12
+Bryant Webster Dual Language Ece-8 School(Public Elementary-Middle),-105.008415,39.7674036,36,Highland,K-12
+Academia(Head Start Elementary),-105.0155651,39.76749501,36,Highland,K-12
+Academia Ana Marie Sandoval(Public Elementary),-105.0151988,39.76777471,36,Highland,K-12
+Avondale(Head Start Elementary),-105.0067716,39.76662266,36,Highland,K-12
+North High School(Public High),-105.0226981,39.76006001,36,Highland,K-12
+Westridge(Head Start Elementary),-105.0069095,39.76639186,36,Highland,K-12
+Strive Prep - Excel(Public High),-105.0228416,39.76006248,36,Highland,K-12
+Garden Place Elementary School(Public Elementary),-104.9862211,39.77688987,29,Globeville,K-12
+Community College Of Denver - Advanced Manufacturing Center(Public College),-104.9928666,39.77202981,29,Globeville,College
+Globeville Ii(Head Start Elementary),-104.9857646,39.78958847,29,Globeville,K-12
+Cec Middle College Of Denver(Public High),-105.0226471,39.75544776,39,Jefferson Park,K-12
+The Boys School Of Denver(Public Middle),-105.017701,39.75236,39,Jefferson Park,K-12
+Family Star Montessori(Daycare Elementary),-105.0247946,39.75058958,39,Jefferson Park,K-12
+Cec(Daycare Elementary),-105.0226578,39.75527565,39,Jefferson Park,K-12
+Fairview Elementary School(Public Elementary),-105.0208052,39.73420721,61,Sun Valley,K-12
+Catholic Charities Child Development Center(Head Start Elementary),-105.0226438,39.73507112,61,Sun Valley,K-12
+Sun Valley Head Start P1(Head Start Elementary),-105.0177218,39.73268123,61,Sun Valley,K-12
+Rude Park Child Development Center P2(Head Start Elementary),-105.022126,39.73599783,61,Sun Valley,K-12
+Columbine Headstart(Head Start Elementary),-105.014646,39.71391763,67,Valverde,K-12
+Florence Crittenton Parent Pathways(Daycare Elementary),-105.0160942,39.71538905,67,Valverde,K-12
+Florence Crittenton High School(Public High),-105.0153742,39.7155798,67,Valverde,K-12
+St Rose Of Lima School(Private Elementary-Middle),-105.0049423,39.7094009,1,Athmar Park,K-12
+Goldrick Elementary School(Public Elementary),-105.0152643,39.69754473,1,Athmar Park,K-12
+Mathematics And Science Leadership Academy(Public Elementary),-105.0113427,39.7089713,1,Athmar Park,K-12
+Kipp Sunshine Peak Academy(Public Middle),-105.0121085,39.70992076,1,Athmar Park,K-12
+Valverde Elementary School(Public Elementary),-105.0112935,39.71048433,1,Athmar Park,K-12
+International Institute Of Cosmetics(Private College),-105.0153499,39.71079206,1,Athmar Park,College
+United Beauty College(Private College),-105.011261,39.69726,1,Athmar Park,College
+Kipp Denver Collegiate High School(Public High),-105.0113427,39.7089713,1,Athmar Park,K-12
+Watch Care Academy(Daycare Elementary),-104.928433,39.7664944,49,Northeast Park Hill,K-12
+Smith Renaissance School(Public Elementary),-104.9184436,39.76674987,49,Northeast Park Hill,K-12
+Roots Elementary(Public Elementary),-104.9232344,39.76525939,49,Northeast Park Hill,K-12
+King Baptist(Daycare Elementary),-104.9199249,39.76523062,49,Northeast Park Hill,K-12
+Kiddie Kollege(Daycare Elementary),-104.9173096,39.76610735,49,Northeast Park Hill,K-12
+School Of Floral Arts(Private College),-104.9307406,39.78415526,49,Northeast Park Hill,College
+Swansea Elementary School - Denver(Public Elementary),-104.956752,39.78133376,25,Elyria Swansea,K-12
+Elyria(Head Start Elementary),-104.9639217,39.78398645,25,Elyria Swansea,K-12
+Slavens K-8 School(Public Elementary-Middle),-104.9561041,39.66164193,73,Wellshire,K-12
+Ricks Ctr For Gifted Children(Private Elementary-Middle),-104.9603296,39.68004913,64,University,K-12
+St Annes Episcopal(Private Elementary-Middle),-104.9606367,39.66759112,64,University,K-12
+Iliff School Of Theology(Private College),-104.960647,39.677461,64,University,College
+Asbury Elementary School(Public Elementary),-104.9716921,39.68006798,64,University,K-12
+Christ Lutheran(Daycare Elementary),-104.9692165,39.6679199,64,University,K-12
+Denver Christian High School(Private High),-104.9809041,39.67781839,53,Rosedale,K-12
+Adventist University Of Health Sciences(Private College),-104.9764421,39.67037636,53,Rosedale,College
+Our Lady Of Lourdes School(Private Elementary-Middle),-104.982776,39.67568744,53,Rosedale,K-12
+Mile High Adventist Academy(Private Elementary-12),-104.9775627,39.66821455,53,Rosedale,K-12
+Massage Therapy Institute Of Colorado(Private College),-104.9601219,39.7392179,12,Cheesman Park,College
+Sewall(Daycare Elementary),-104.9619314,39.73817037,12,Cheesman Park,K-12
+Warren Village Inc(Daycare Elementary),-104.9673927,39.73719989,12,Cheesman Park,K-12
+Carson Elementary School(Public Elementary),-104.9240901,39.71740258,37,Hilltop,K-12
+Temple Emanuel(Daycare Elementary),-104.9258464,39.71689303,37,Hilltop,K-12
+Denver Language School(Public Elementary),-104.9099644,39.72394521,37,Hilltop,K-12
+Steck Elementary School(Public Elementary),-104.9385525,39.72375812,37,Hilltop,K-12
+Graland Country Day(Private Elementary-Middle),-104.9358945,39.71695321,37,Hilltop,K-12
+Hill Campus Of Arts And Sciences(Public Middle),-104.9354811,39.72376009,37,Hilltop,K-12
+Whiteman Elementary School(Public Elementary),-104.9101388,39.7227278,37,Hilltop,K-12
+St James Catholic School(Private Elementary-Middle),-104.9086018,39.73760986,46,Montclair,K-12
+Majestic Vocational Training Center(Private College),-104.9189003,39.73987532,46,Montclair,College
+Montclair Academy(Private Elementary-Middle),-104.9098442,39.73365265,46,Montclair,K-12
+Montclair Elementary School(Public Elementary),-104.9097933,39.73357685,46,Montclair,K-12
+Montclair(Head Start Elementary),-104.9098325,39.73348062,46,Montclair,K-12
+Agape Creative Day Care Center(Daycare Elementary),-104.9205768,39.73942047,46,Montclair,K-12
+Montessori Childrens House Of Denver(Private Elementary-Middle),-104.9402123,39.726953,31,Hale,K-12
+Palmer Elementary School(Public Elementary),-104.9249861,39.73227441,31,Hale,K-12
+Christ The King Roman Catholic School(Private Elementary-Middle),0,0,31,Hale,K-12
+Child Care Partners Dba University Child Care(Daycare Elementary),-104.931232,39.73076443,31,Hale,K-12
+Venture Prep High School(Public High),-104.9213755,39.75376901,48,North Park Hill,K-12
+Stedman Elementary School(Public Elementary),-104.9323613,39.75955688,48,North Park Hill,K-12
+Hallett Fundamental Academy(Public Elementary),-104.9183261,39.75958894,48,North Park Hill,K-12
+Venture Prep Middle School(Public High),-104.9213755,39.75376901,48,North Park Hill,K-12
+Montview Preschool(Daycare Elementary),-104.9314714,39.74697303,57,South Park Hill,K-12
+Johnson & Wales University - Denver(Private College),-104.9053161,39.74590183,57,South Park Hill,College
+Park Hill School(Public Elementary),-104.9293544,39.7453294,57,South Park Hill,K-12
+The Odyssey School(Public Elementary-Middle),-104.9120428,39.74806278,57,South Park Hill,K-12
+Denver School Of The Arts(Public Middle-High),-104.9054833,39.74810748,57,South Park Hill,K-12
+Blessed Sacrament Parish Sch(Private Elementary-Middle),-104.9295158,39.74649045,57,South Park Hill,K-12
+Bartending School Of Denver(Private College),-104.9206654,39.67886543,69,Virginia Village,College
+Ellis Elementary School(Public Elementary),-104.9320202,39.68674162,69,Virginia Village,K-12
+Rocky Mountain School Of Expeditionary Learning(Public Elementary-12),-104.9214797,39.68533797,69,Virginia Village,K-12
+Dalton Gang Preschool(Daycare Elementary),-104.9263176,39.68973469,69,Virginia Village,K-12
+Stillwater College Of Allied Health(Private College),-104.9380893,39.6834353,69,Virginia Village,College
+Saint Andrew Avellino Seminary(Private College),-104.9360016,39.6973948,69,Virginia Village,College
+Montessori School Of Denver(Private Elementary),-104.9218077,39.69034026,69,Virginia Village,K-12
+Bradley International School(Public Elementary),-104.9298279,39.66321529,65,University Hills,K-12
+Denver Academy(Private Elementary-12),-104.9355315,39.67478281,65,University Hills,K-12
+Premier School Of Dental Assisting(Private College),-104.9365072,39.66567109,65,University Hills,College
+University Hills Lutheran(Private Elementary-Middle),-104.9307833,39.65932111,65,University Hills,K-12
+Van Dellen Christian(Private Elementary-Middle),-104.938161,39.6765934,65,University Hills,K-12
+The Rise School Of Denver(Daycare Elementary),-104.9305822,39.65925315,65,University Hills,K-12
+Iliff Preschool Inc(Daycare Elementary),-104.9388132,39.674609,65,University Hills,K-12
+Abraham Lincoln High School(Public High),-105.0270311,39.67608512,34,Harvey Park,K-12
+Doull Elementary School(Public Elementary),-105.0444273,39.67312535,34,Harvey Park,K-12
+Trinity Lutheran Eclc(Daycare Elementary),-105.042038,39.66778562,34,Harvey Park,K-12
+All Saints School(Daycare Elementary),-105.0263719,39.6719318,34,Harvey Park,K-12
+Kunsmiller Creative Arts Academy(Public Elementary-12),-105.0398749,39.67556227,34,Harvey Park,K-12
+Notre Dame Catholic School(Private Elementary-Middle),-105.0520693,39.67702555,34,Harvey Park,K-12
+Respect Academy At Lincoln(Public High),-105.0263017,39.67608219,34,Harvey Park,K-12
+Mountain View Child Care Center(Daycare Elementary),-105.0385357,39.68975024,43,Mar Lee,K-12
+Force Elementary School(Public Elementary),-105.047539,39.68915228,43,Mar Lee,K-12
+Cosmo Beauty Academy(Private College),-105.0254017,39.68567357,43,Mar Lee,College
+Johnson Elementary School(Public Elementary),-105.0292416,39.68355992,43,Mar Lee,K-12
+Strive Prep - Westwood(Public Middle),-105.0282252,39.69534475,43,Mar Lee,K-12
+Denison Montessori School(Public Elementary),-105.0512976,39.68310157,43,Mar Lee,K-12
+Strive Prep - Federal(Public Middle),-105.0257393,39.68426282,43,Mar Lee,K-12
+Childrens Learning Center Inc(Daycare Elementary),-105.0266132,39.68793624,43,Mar Lee,K-12
+Charles M. Schenck (Cms) Community School(Public Elementary),-105.0340661,39.69241481,43,Mar Lee,K-12
+Strive Prep - Smart Academy(Public High),-105.0282252,39.69534475,43,Mar Lee,K-12
+Pascual Ledoux Academy(Public Elementary),-105.0280154,39.69746233,76,Westwood,K-12
+American International Beauty College(Private College),-105.0254791,39.70455969,76,Westwood,College
+Saint Anthony Of Padua School(Daycare Elementary),-105.0369276,39.702765,76,Westwood,K-12
+Redeemer Lutheran(Private Elementary),-105.0313902,39.71008808,76,Westwood,K-12
+Knapp Elementary School(Public Elementary),-105.0457296,39.70799264,76,Westwood,K-12
+Munroe Elementary School(Public Elementary),-105.0315832,39.70741843,76,Westwood,K-12
+Kentucky(Head Start Elementary),-105.0322327,39.70140197,76,Westwood,K-12
+Kepner Middle School(Public Middle),-105.0282869,39.69987052,76,Westwood,K-12
+Westwood Child Development Center(Head Start Elementary),-105.033678,39.69836339,76,Westwood,K-12
+Castro Elementary School(Public Elementary),-105.0351325,39.70168389,76,Westwood,K-12
+Ashley Elementary School(Public Elementary),-104.8983141,39.74618339,24,East Colfax,K-12
+Cuttin Up Beauty Academy(Private College),-104.8937643,39.74055062,24,East Colfax,College
+Day One Daycare(Daycare Elementary),-104.8885222,39.73888235,24,East Colfax,K-12
+Metropolitan State University Of Denver(Private College),-105.002391,39.742248,2,Auraria,College
+Metropolitan State University Of Denver(Public College),-105.002391,39.742248,2,Auraria,College
+Community College Of Denver - Auraria(Public College),-105.003007,39.74142,2,Auraria,College
+Auraria Early Learning Center(Daycare Elementary),-105.0068588,39.74551159,2,Auraria,K-12
+Most Precious Blood(Private Elementary-Middle),-104.9413428,39.67487462,66,University Park,K-12
+Brooks Center For Spirituality(Private College),-104.9455072,39.68120517,66,University Park,College
+Parzival Shield Preschool/Kindergarten(Daycare Elementary),-104.9461122,39.67709282,66,University Park,K-12
+University Park Elementary School(Public Elementary),-104.9504674,39.67440487,66,University Park,K-12
+Accelerated Schools Found #1(Private Elementary-12),-104.9472128,39.67713036,66,University Park,K-12
+Schlessman Ymca(Head Start Elementary),-104.9418269,39.66789067,66,University Park,K-12
+La Esperanza Adventist School(Private Elementary-Middle),-104.9866886,39.67998501,51,Platt Park,K-12
+Denver Waldorf School(Private Elementary-12),-104.9783146,39.6897095,51,Platt Park,K-12
+Mc Kinley-Thatcher Elementary School(Public Elementary),-104.983655,39.6938161,51,Platt Park,K-12
+Grant Beacon Middle School(Public Middle),-104.9795881,39.68543408,51,Platt Park,K-12
+College View Elementary School(Public Elementary),-105.023417,39.66790739,19,College View / South Platte,K-12
+Southwest Early College(Public High),-105.023417,39.66790739,19,College View / South Platte,K-12
+Summit Academy(Public Middle-High),-105.023417,39.66790739,19,College View / South Platte,K-12
+Dsst: College View Middle School(Public Middle),-105.023417,39.66790739,19,College View / South Platte,K-12
+Strive Prep - Ruby Hill(Public Elementary),-105.0185689,39.67804272,19,College View / South Platte,K-12
+Godsman Elementary School(Public Elementary),-105.0132627,39.69051342,54,Ruby Hill,K-12
+Schmitt Elementary School(Public Elementary),-105.0125528,39.6834449,54,Ruby Hill,K-12
+El Mundo Feliz(Daycare Elementary),-105.0245666,39.6901818,54,Ruby Hill,K-12
+Argosy University - Denver(Private College),-104.901591,39.65617,32,Hampden,College
+John Casablancas Modeling And Career Center - Denver(Private College),-104.9017783,39.65432745,32,Hampden,College
+Online Trading Academy(Private College),-104.9025753,39.65565795,32,Hampden,College
+Holm Elementary School(Public Elementary),-104.8920587,39.65752072,32,Hampden,K-12
+Hamilton Middle School(Public Middle),-104.8921138,39.65980255,32,Hampden,K-12
+Denver Center For International Studies - Fairmont(Public Elementary),-104.9940056,39.72522842,3,Baker,K-12
+Namaste Artisan Barber College(Private College),-104.9878353,39.71882585,3,Baker,College
+Denver Center For International Studies - Main(Public Middle-High),-104.9946711,39.72532481,3,Baker,K-12
+Casa De Ninos(Head Start Elementary),-104.9966082,39.72383771,3,Baker,K-12
+West Side Day Care Center-Mile High Montessori(Head Start Elementary),-104.9942932,39.71759168,3,Baker,K-12
+Kaiser Elementary School(Public Elementary),-105.0413596,39.63416306,27,Fort Logan,K-12
+Southwest Ymca(Head Start Elementary),-105.0519789,39.65129478,27,Fort Logan,K-12
+The Baby Haven(Daycare Elementary),-105.0354903,39.63932481,27,Fort Logan,K-12
+Bear Valley Bible Institute(Private College),-105.0677605,39.66747793,6,Bear Valley,College
+Real Estate Training Center Of Colorado(Private College),-105.0808861,39.66256545,6,Bear Valley,College
+Traylor Academy(Public Elementary),-105.0624603,39.6609028,6,Bear Valley,K-12
+Henry World School Grades 6-8(Public Middle),-105.0586217,39.66075371,6,Bear Valley,K-12
+John F Kennedy High School(Public High),-105.0683484,39.66249866,6,Bear Valley,K-12
+Colorado Heights University(Private College),-105.028197,39.661853,35,Harvey Park South,College
+Sabin World School(Public Elementary),-105.0459955,39.6594186,35,Harvey Park South,K-12
+Gust Elementary School(Public Elementary),-105.0315603,39.6670352,35,Harvey Park South,K-12
+Westwood College - Denver South(Private College),-105.047942,39.654061,35,Harvey Park South,College
+Excel Academy(Public High),-105.0272657,39.66056261,35,Harvey Park South,K-12
+Thomas Jefferson High School(Public High),-104.9213701,39.64683835,58,Southmoor Park,K-12
+Montessori At The Marina(Daycare Elementary),-104.8939008,39.62572853,33,Hampden South,K-12
+Samuels Elementary School(Public Elementary),-104.8918129,39.64267137,33,Hampden South,K-12
+Phlebotomy Training Specialists(Private College),-104.8808302,39.65124442,33,Hampden South,College
+Southmoor Elementary School(Public Elementary),-104.9118445,39.64807711,33,Hampden South,K-12
+International Guide Academy(Private College),-104.8881498,39.65014851,33,Hampden South,College
+Colorado School Of Dental Assisting - Denver(Private College),-104.9124077,39.66806362,30,Goldsmith,College
+Kindercare Learning Center(Daycare Elementary),-104.9213375,39.67585073,30,Goldsmith,K-12
+Highline Academy Charter School(Public Elementary-Middle),-104.9308793,39.67699583,30,Goldsmith,K-12
+St Vincent De Paul School(Private Elementary-Middle),-104.9580752,39.69486057,21,Cory - Merrill,K-12
+Bartending And Casino College(Private College),-104.9416264,39.69217955,21,Cory - Merrill,College
+College America - Denver(Private College),-104.94118,39.691571,21,Cory - Merrill,College
+Cloverleaf University(Private College),-104.9421069,39.68523905,21,Cory - Merrill,College
+National American University - Denver(Private College),-104.941649,39.691953,21,Cory - Merrill,College
+Cory Elementary School(Public Elementary),-104.9495689,39.68865339,21,Cory - Merrill,K-12
+Phlebotomy Learning Center Of Denver(Private College),-104.9411971,39.69243289,21,Cory - Merrill,College
+Merrill Middle School(Public Middle),-104.9459547,39.68876672,21,Cory - Merrill,K-12
+St John Vianney Theological Seminary(Private College),-104.9475314,39.69282673,21,Cory - Merrill,College
+Creative Challenge Community(Public Elementary),-104.9459547,39.68876672,21,Cory - Merrill,K-12
+Rocky Mountain Electrical Training Institute(Private College),-104.8990789,39.69639721,78,Windsor,College
+Stephen Knight Center For Early Education(Public Elementary),-104.9490548,39.70437449,7,Belcaro,K-12
+Girls Athletic Leadership School Middle School(Public Middle),-104.9584186,39.71216723,7,Belcaro,K-12
+St Johns Lutheran(Private Elementary-Middle),-104.968629,39.70383012,70,Washington Park,K-12
+South High School(Public High),-104.9661395,39.69214611,70,Washington Park,K-12
+Steele Elementary School(Public Elementary),-104.9716721,39.71019048,70,Washington Park,K-12
+University Of Denver(Public College),-104.964625,39.695954,70,Washington Park,College
+Montessori-Washington Park(Daycare Elementary),-104.9849597,39.71071599,71,Washington Park West,K-12
+Lincoln Elementary School(Public Elementary),-104.9809239,39.70361479,71,Washington Park West,K-12
+St Francis De Sales(Private Elementary-Middle),-104.9855379,39.71229648,59,Speer,K-12
+Dsst: Byers Middle School(Public Middle),-104.979778,39.71375,59,Speer,K-12
+Zuri Hair Institute(Private College),-104.9499776,39.72077065,13,Cherry Creek,College
+Bromwell Elementary School(Public Elementary),-104.9568411,39.72211724,13,Cherry Creek,K-12
+Childrens Garden Montessori(Daycare Elementary),-104.954359,39.72335889,13,Cherry Creek,K-12
+Good Shepherd Catholic School(Private Elementary-Middle),-104.9566746,39.72635012,20,Congress Park,K-12
+Reach Charter School(Public Elementary),-104.9525727,39.73170445,20,Congress Park,K-12
+Colorado School Of Traditional Chinese Medicine(Private College),-104.959476,39.739101,20,Congress Park,College
+Teller Elementary School(Public Elementary),-104.9436022,39.73439832,20,Congress Park,K-12
+The Denver Waldorf School(Private Elementary-12),-104.952845,39.73194084,20,Congress Park,K-12
+East High School(Public High),-104.9554256,39.74163006,14,City Park,K-12
+Nutritional Therapy Institute(Private College),-104.9594709,39.74036288,14,City Park,College
+Denver Online High School(Public High),-104.9832271,39.73077992,9,Capitol Hill,K-12
+Art Institute Of Colorado(Private College),-104.985847,39.735587,9,Capitol Hill,College
+Rita B Cosmetology Institute(Private College),-104.9865794,39.73161098,9,Capitol Hill,College
+Dora Moore Ece-8 School(Public Elementary-Middle),-104.9738045,39.7299706,9,Capitol Hill,K-12
+Seedpaths(Private College),-104.9832907,39.72930364,9,Capitol Hill,College
+The Art Institute Of Colorado(Private College),-104.985847,39.735587,9,Capitol Hill,College
+Starkey International Institute Of Household Management(Private College),-104.9820229,39.73782567,9,Capitol Hill,College
+Morey Middle School(Public Middle),-104.9770173,39.73775674,9,Capitol Hill,K-12
+Sewall Child Development Center - St. Johns Cathedral(Daycare Elementary),-104.9781544,39.73799587,9,Capitol Hill,K-12
+Academy Of Urban Learning(Public High),-104.9764782,39.74505548,47,North Capitol Hill,K-12
+University Of Colorado System Office(Public College),-104.983277,39.74521,47,North Capitol Hill,College
+Downtown Denver Expeditionary School(Public Elementary),-104.9858208,39.74581705,47,North Capitol Hill,K-12
+Compassion Road Academy(Public High),-104.9914238,39.73226924,16,Civic Center,K-12
+Academy Of Cosmetology Arts(Private College),-104.9899826,39.73318597,16,Civic Center,College
+Galvanize - Denver Golden Triangle(Private College),-104.9926272,39.73357015,16,Civic Center,College
+Family Flex Llc(Daycare Elementary),-104.9888564,39.73246029,16,Civic Center,K-12
+Colonnade Children'S Center(Daycare Elementary),-104.9949579,39.73649,16,Civic Center,K-12
+Montessori On The Mall(Daycare Elementary),-104.9942387,39.74858746,10,CBD,K-12
+Aveda Institute - Denver(Private College),-104.992451,39.74516,10,CBD,College
+Colorado State University - System Office(Public College),-104.988532,39.744169,10,CBD,College
+Parsec Group(Private College),-104.9918368,39.74895881,10,CBD,College
+Denver College Of Dental Careers(Private College),-104.9886931,39.74281671,10,CBD,College
+Emily Griffith Technical College - College(Private College),-104.995303,39.741034,10,CBD,College
+University Of The Rockies(Private College),-104.9961815,39.74853139,10,CBD,College
+University Of Colorado Denver(Public College),-104.999181,39.74603,10,CBD,College
+Emily Griffith Technical College - High(Public High),-104.9953263,39.74104178,10,CBD,K-12
+Cook Street School Of Culinary Arts(Private College),-104.9941986,39.75337378,63,Union Station,College
+Denver School Of Nursing(Private College),-104.994627,39.753041,63,Union Station,College
+Turing School Of Software And Design(Private College),-104.9999667,39.74972068,63,Union Station,College
+Dsst: Stapleton High School(Public High),-104.8900456,39.74793565,60,Stapleton,K-12
+William (Bill) Roberts K-8 School(Public Elementary-Middle),-104.8828715,39.74802738,60,Stapleton,K-12
+Northfield High School(Public High),-104.8831124,39.7974397,60,Stapleton,K-12
+High Tech Elementary School(Public Elementary),-104.8888107,39.7896044,60,Stapleton,K-12
+Swigert International School(Public Elementary),-104.8978875,39.76476617,60,Stapleton,K-12
+Dsst: Conservatory Green Middle School(Public Middle),-104.8879053,39.78721728,60,Stapleton,K-12
+Denver Discovery School(Public Middle),-104.8977619,39.76470511,60,Stapleton,K-12
+Westerly Creek Elementary(Public Elementary),-104.8852746,39.75590074,60,Stapleton,K-12
+Isabella Bird Community School(Public Elementary),-104.8575676,39.75539321,60,Stapleton,K-12
+Dsst: Stapleton Middle School(Public Middle),-104.8900456,39.74793565,60,Stapleton,K-12
+Mcauliffe International School(Public Middle),-104.8978875,39.76476617,60,Stapleton,K-12
+Anchor Center For Blind Children(Daycare Elementary),-104.899846,39.75450195,60,Stapleton,K-12
+Dsst: Cole High School(Public High),-104.889979,39.74792741,60,Stapleton,K-12
+Collegiate Preparatory Academy(Public High),-104.8276346,39.78686879,45,Montbello,K-12
+Mi Segunda Casa(Head Start Elementary),-104.8376722,39.78018065,45,Montbello,K-12
+Dcis At Ford(Public Elementary),-104.8160462,39.79256407,45,Montbello,K-12
+Escalante-Biggs Academy(Public Elementary),-104.823435,39.79130603,45,Montbello,K-12
+Amesse Elementary School(Public Elementary),-104.8419703,39.79335083,45,Montbello,K-12
+St Andrew Lutheran School(Private Elementary),-104.8459975,39.78553559,45,Montbello,K-12
+Lincoln College Of Technology - Denver(Private College),-104.856171,39.77651,45,Montbello,College
+Love Christian Fellowship Educational Center(Private College),-104.8411229,39.78236911,45,Montbello,College
+Marie L. Greenwood Academy(Public Elementary),-104.8170787,39.78661583,45,Montbello,K-12
+Gobbell Hays Partners(Private College),-104.8651647,39.79501052,45,Montbello,College
+Maxwell Elementary School(Public Elementary),-104.8237312,39.78340719,45,Montbello,K-12
+Mcglone Elementary School(Public Elementary),-104.8377596,39.78015599,45,Montbello,K-12
+Oakland Elementary(Public Elementary),-104.8188431,39.77827071,45,Montbello,K-12
+Dcis At Montbello (Montbellow High School)(Public Middle-High),-104.8276346,39.78686879,45,Montbello,K-12
+Dps Ece Oakland Preschool Center(Daycare Elementary),-104.81884,39.77817477,45,Montbello,K-12
+Change Christian Academy(Private Elementary-12),-104.8438306,39.79274896,45,Montbello,K-12
+Mcglone(Head Start Elementary),-104.8375834,39.78020644,45,Montbello,K-12
+Ford(Head Start Elementary),-104.8161268,39.7925297,45,Montbello,K-12
+Kiddie Cat(Daycare Elementary),-104.8437241,39.79268582,45,Montbello,K-12
+Farrell B. Howell Ece-8 School(Public Elementary-Middle),-104.8325095,39.77648436,45,Montbello,K-12
+First Steps At Monarch Montessori Of Denver(Daycare Elementary),-104.8478193,39.78561567,45,Montbello,K-12
+Strive Prep - Montbello(Public Middle),-104.8535084,39.77599116,45,Montbello,K-12
+Love Christian Fellowship Ctr(Private Elementary-12),-104.8411988,39.78235855,45,Montbello,K-12
+High Tech Early College(Public High),-104.8276346,39.78686879,45,Montbello,K-12
+Monarch Montessori(Public Elementary),-104.8535084,39.77599116,45,Montbello,K-12
+Academy 360(Public Elementary),-104.8435607,39.79261547,45,Montbello,K-12
+Noel Community Arts School(Public Middle-High),-104.8008915,39.78903952,45,Montbello,K-12
+Bishop Machebeuf Catholic High(Private High),-104.8907583,39.72411652,42,Lowry Field,K-12
+Lowry(Head Start Elementary),-104.8940579,39.73099762,42,Lowry Field,K-12
+Montessori Casa International(Private College),-104.8983135,39.72063975,42,Lowry Field,College
+Stanley British Primary School(Private Elementary-Middle),-104.9034084,39.72112755,42,Lowry Field,K-12
+Lowry Elementary School(Public Elementary),-104.8965316,39.71280394,42,Lowry Field,K-12
+The Logan School For Creative(Private Elementary-Middle),-104.8874454,39.73123859,42,Lowry Field,K-12
+Vanguard Classical School - West(Public Elementary-Middle),-104.8874982,39.72951991,42,Lowry Field,K-12
+International School Of Denver(Private Elementary-Middle),-104.8979573,39.72223846,42,Lowry Field,K-12
+Denver Academy Of Torah(Private Elementary-Middle),-104.9091736,39.71199784,42,Lowry Field,K-12
+Denver Montclair International School(Private Elementary),-104.897895,39.72228192,42,Lowry Field,K-12
+Creative Options Center For Early Ed(Daycare Elementary),-104.8883784,39.72946997,42,Lowry Field,K-12
+Creative Learning Academy(Daycare Elementary),-104.8870094,39.73139857,42,Lowry Field,K-12
+Beth Jacob High School(Private High),-105.0524102,39.73826722,74,West Colfax,K-12
+Cheltenham Elementary School(Public Elementary),-105.0307574,39.74217425,74,West Colfax,K-12
+Colfax Elementary School(Public Elementary),-105.0436372,39.7409979,74,West Colfax,K-12
+Riseup Community School(Public High),-105.0255573,39.74533804,74,West Colfax,K-12
+Lake International School(Public Middle),-105.0344702,39.74592759,74,West Colfax,K-12
+Strive Prep - Lake(Public Middle),-105.0344702,39.74592759,74,West Colfax,K-12
+Yeshiva Toras Chaim Talmudical Seminary(Private College),-105.043282,39.741781,74,West Colfax,College
+Edison Elementary School(Public Elementary),-105.0401056,39.76486379,75,West Highland,K-12
+Cesar Chavez Academy Denver(Public Elementary-Middle),-105.0437581,39.76854181,75,West Highland,K-12
+Escuela Tlatelolco School(Public Elementary-12),-105.0257811,39.75946947,75,West Highland,K-12
+Emmaus Lutheran School(Private Elementary-Middle),-105.0295769,39.76122076,75,West Highland,K-12
+Brown International Academy(Public Elementary),-105.0341567,39.75453077,56,Sloan Lake,K-12
+Keegan(Head Start Elementary),-105.0377136,39.75818629,56,Sloan Lake,K-12
+Children Are The Future(Daycare Elementary),-105.0524366,39.75760382,56,Sloan Lake,K-12
+Centennial A School For Expeditionary Learning(Public Elementary),-105.0422319,39.7813213,8,Berkeley,K-12
+Skinner Middle School(Public Middle),-105.0322678,39.77244503,8,Berkeley,K-12
+Arrupe Jesuit High School(Private High),-105.0455065,39.77555968,8,Berkeley,K-12
+Regis University(Private College),-105.031385,39.78976,52,Regis,College
+Regis University - Northwest Denver(Private College),-105.031385,39.78976,52,Regis,College
+Little Munchkins(Head Start Elementary),-105.0030799,39.73277475,41,Lincoln Park,K-12
+Colorado High School Charter(Public High),-105.0045033,39.73468717,41,Lincoln Park,K-12
+Greenlee Elementary School(Public Elementary),-105.0012407,39.73444322,41,Lincoln Park,K-12
+West High School(Public High),-104.9948593,39.73138849,41,Lincoln Park,K-12
+West Career Academy(Public High),-104.9947235,39.73171145,41,Lincoln Park,K-12
+Advanced Barbering Academy(Private College),-105.012205,39.73081124,41,Lincoln Park,College
+Denver Integrative Massage School(Private College),-104.9972972,39.73573712,41,Lincoln Park,College
+West Leadership Academy(Public Middle-High),-104.9948593,39.73138849,41,Lincoln Park,K-12
+La Academia/Inner City Parish(Private Middle-High),-104.9961685,39.73071847,41,Lincoln Park,K-12
+Ace Community Challenge School(Public High),-104.9984572,39.73150455,41,Lincoln Park,K-12
+Girls Athletic Leadership School High School(Public High),-104.9957909,39.72848234,41,Lincoln Park,K-12
+Little Saints Daycare Center(Daycare Elementary),-104.9695627,39.75033985,15,City Park West,K-12
+American Pathways University(Private College),-104.9685903,39.749844,15,City Park West,College
+Denver Center For 21St Learning At Wyman(Public Middle-High),-104.9652968,39.74282345,15,City Park West,K-12
+George Washington Carver Cdc(Head Start Elementary),-104.9694231,39.75035155,15,City Park West,K-12
+Whittier K-8 School(Public Elementary-Middle),-104.9730115,39.75270916,77,Whittier,K-12
+Gilliam School(Detention* Middle-High),-104.9727747,39.75758703,77,Whittier,K-12
+Whittier(Head Start Elementary),-104.9724596,39.75292681,77,Whittier,K-12
+Kids 4 Real(Daycare Elementary),-104.9688958,39.75960433,77,Whittier,K-12
+Manual High School(Public High),-104.9664416,39.75630652,77,Whittier,K-12
+Columbine Elementary School - Denver(Public Elementary),-104.9565211,39.75786754,55,Skyland,K-12
+Barrett Elementary School(Public Elementary),-104.9426798,39.75876515,55,Skyland,K-12
+Prep (Positive Refocus Education Program)(Public Middle-High),-104.9577789,39.75636805,55,Skyland,K-12
+Excel Institute(Private Elementary-Middle),-104.9426243,39.76009829,55,Skyland,K-12
+Northeast Montessori P1(Head Start Elementary),-104.9724149,39.76594961,18,Cole,K-12
+Cole Arts And Science Academy(Public Elementary),-104.9693019,39.76264765,18,Cole,K-12
+Annunciation(Private Elementary-Middle),-104.9705711,39.76621426,18,Cole,K-12
+Dsst: Cole Middle School(Public Middle),-104.9693019,39.76264765,18,Cole,K-12
+Wyatt Academy(Public Elementary-Middle),-104.9678067,39.767302,18,Cole,K-12
+Early Excellence Program Of Denver At Wyatt-Edison(Daycare Elementary),-104.9679635,39.76664993,18,Cole,K-12
+Justice High School Denver(Public High),-104.9717189,39.76259031,18,Cole,K-12
+Grant Ranch Ece-8 School(Public Elementary-Middle),-105.064331,39.61746701,44,Marston,K-12
+Mr Ks Floral Design School Of Denver(Private College),-105.0931337,39.62568373,44,Marston,College
+Hillel Academy(Private Elementary-Middle),-104.9230659,39.70865628,72,Washington Virginia Vale,K-12
+Place Bridge Academy(Public Elementary-Middle),-104.9058822,39.68832682,72,Washington Virginia Vale,K-12
+New America College(Private College),-104.9113456,39.69984218,72,Washington Virginia Vale,College
+Holmes College(Private College),-104.9100794,39.69618129,72,Washington Virginia Vale,College
+Mc Meen Elementary School(Public Elementary),-104.9212223,39.6982024,72,Washington Virginia Vale,K-12
+Denver Green School(Public Elementary-Middle),-104.9089911,39.7074633,72,Washington Virginia Vale,K-12
+George Washington High School(Public High),-104.9147108,39.70547136,72,Washington Virginia Vale,K-12
+Jewish Community Center(Daycare Elementary),-104.9308326,39.71000592,72,Washington Virginia Vale,K-12
+Barnum Elementary School(Public Elementary),-105.0294475,39.7176836,4,Barnum,K-12
+Rocky Mountain Ser Centro(Head Start Elementary),-105.0527691,39.71931904,5,Barnum West,K-12
+Yeshiva Toras Chaim(Daycare High),-105.0433509,39.71907725,5,Barnum West,K-12
+Newlon Elementary School(Public Elementary),-105.0462613,39.72169504,5,Barnum West,K-12
+Barnum(Head Start Elementary),-105.0419486,39.72475497,5,Barnum West,K-12
+Centro Wraparound(Head Start Elementary),-105.0527783,39.71937818,5,Barnum West,K-12
+Crayon Academy(Daycare Elementary),-105.0531992,39.71681254,5,Barnum West,K-12
+Presentation Of Our Lady School(Private Elementary-Middle),-105.0308841,39.72722146,68,Villa Park,K-12
+Cowell Elementary School(Public Elementary),-105.0457552,39.73277462,68,Villa Park,K-12
+Eagleton Elementary School(Public Elementary),-105.0281431,39.73065995,68,Villa Park,K-12
+Villa Park(Head Start Elementary),-105.0333806,39.72753366,68,Villa Park,K-12
+Pioneer Charter School(Public Elementary-Middle),-104.9492932,39.7689584,17,Clayton,K-12
+Julia Greeley Academy(Private Elementary),-104.9446682,39.76271895,17,Clayton,K-12
+Innercity Christian School(Private Elementary),-104.9581882,39.76671583,17,Clayton,K-12
+St Elizabeths School(Private Elementary-Middle),-104.9450257,39.76309438,17,Clayton,K-12
+Bruce Randolph School(Public Middle-High),-104.9513028,39.77201591,17,Clayton,K-12
+Harrington(Head Start Elementary),-104.958598,39.76872913,17,Clayton,K-12
+Garfield(Daycare Elementary),-104.9438772,39.76260425,17,Clayton,K-12
+Hope Center(Daycare Elementary),-104.9554733,39.76521464,17,Clayton,K-12
+Clayton Family Futures Head Start(Head Start Elementary),-104.9414303,39.76273328,17,Clayton,K-12
+Volunteers Of America Rainbow House(Head Start Elementary),-104.9469996,39.76424302,17,Clayton,K-12
+Lil Peoples Learning Center(Daycare Elementary),-104.7677342,39.78468312,28,Gateway / Green Valley Ranch,K-12
+Dsst: Green Valley Ranch High School(Public High),-104.7804184,39.78506031,28,Gateway / Green Valley Ranch,K-12
+Green Valley Elementary School(Public Elementary),-104.7484365,39.77278065,28,Gateway / Green Valley Ranch,K-12
+Lena Archuleta Elementary School(Public Elementary),-104.8034695,39.79397199,28,Gateway / Green Valley Ranch,K-12
+Soar At Green Valley Ranch(Public Elementary),-104.7788216,39.78451526,28,Gateway / Green Valley Ranch,K-12
+Highline Academy Northeast(Public Elementary),-104.7615476,39.79588504,28,Gateway / Green Valley Ranch,K-12
+Kipp Montbello College Prep(Public Middle),-104.8008915,39.78903952,28,Gateway / Green Valley Ranch,K-12
+Omar D Blair Charter School(Public Elementary-Middle),-104.7664329,39.78663036,28,Gateway / Green Valley Ranch,K-12
+Marrama Elementary School(Public Elementary),-104.7644063,39.77242858,28,Gateway / Green Valley Ranch,K-12
+Early Success Academy(Daycare Elementary),-104.8080486,39.78594827,28,Gateway / Green Valley Ranch,K-12
+Martin Luther King Jr. Early College(Public Middle-High),-104.7602769,39.78093307,28,Gateway / Green Valley Ranch,K-12
+Vista Academy(Public Middle-High),-104.7800052,39.78565936,28,Gateway / Green Valley Ranch,K-12
+Dsst: Green Valley Ranch Middle School(Public Middle),-104.7804715,39.78444205,28,Gateway / Green Valley Ranch,K-12
+Florida Pitt-Waller Ece-8 School(Public Elementary-Middle),-104.7366171,39.78994679,28,Gateway / Green Valley Ranch,K-12
+Strive Prep - Gvr(Public Middle),-104.7786796,39.78510714,28,Gateway / Green Valley Ranch,K-12
+Clayton(Head Start Elementary),-104.7787828,39.78509565,28,Gateway / Green Valley Ranch,K-12
+Push Academy(Public High),-104.7979319,39.77590384,28,Gateway / Green Valley Ranch,K-12
+Margery Reed Mayo(Head Start Elementary),-104.9820351,39.75932876,26,Five Points,K-12
+Berkana Institute Of Massage Therapy(Private College),-104.9915422,39.75350279,26,Five Points,College
+Gilpin Montessori Public School(Public Elementary),-104.9761614,39.75828211,26,Five Points,K-12
+Institute - Global Scholarship(Daycare Elementary),-104.9779071,39.75304243,26,Five Points,K-12
+Polaris At Ebert Elementary School(Public Elementary),-104.9818029,39.74981356,26,Five Points,K-12
+Denver Public Montessori Junior/Senior High School(Public Middle),-104.9761067,39.75821773,26,Five Points,K-12
+Family Star Ne(Head Start Elementary),-104.9782012,39.75961219,26,Five Points,K-12
+Edna Oliver Montessori(Head Start Elementary),-104.9747462,39.75487025,26,Five Points,K-12
+Volunteers Of America(Head Start Elementary),-104.9840933,39.75915461,26,Five Points,K-12
+University Preparatory School(Public Elementary),-104.9858511,39.75592949,26,Five Points,K-12

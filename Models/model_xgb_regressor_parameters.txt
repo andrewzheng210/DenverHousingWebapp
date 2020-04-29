@@ -1,0 +1,26 @@
+###############################
+## model_xgb_regressor.model ##
+## XGB regressor parameters  ##
+# 'AREA_ABG', 'BATH_RMS', 'SALE_MONTH', 'AGE', 
+# 'STORY', 'LAND_SQFT', 'BED_RMS', 'GRD_AREA', 
+
+# 'ParkDist', 'DrugDist', 'StoreDist', 
+# 'AVG_HH_INC', 'SALE_YEAR', 'PER_CAPITA', 
+# 'LESSTHANHS', 'BACHELORSO',
+# 'PCT_AGE65P', 'PER_COMM', 
+# 'Tree_Coverage', 'K12s', 'Intersects', 
+# 'PCT_VAC', 'Park_Coverage', 'Libraries', 
+# 'FoodStores', 'Marijuana', 'Crimes', 'PCT_AGELES', 
+# 'TrAccident', 'MaxPctRace', 'StLights', 'Colleges', 'Malls'
+###############################
+
+#############################################
+####### xgboost model data structure ########
+#dfx_lr = dfx[['AGE', 'AREA_ABG', 'AVG_HH_INC', 'BACHELORSO', 'BED_RMS', 
+          #    'Colleges', 'Crimes', 'DrugDist', 
+          #    'FoodStores', 'GRD_AREA', 'BATH_RMS', 'Intersects', 
+          #    'K12s', 'LAND_SQFT', 'LESSTHANHS', 'Libraries', 'Malls', 'Marijuana', 
+          #    'MaxPctRace', 'PCT_AGE65P', 'PCT_AGELES', 'PER_CAPITA', 'PCT_VAC', 'PER_COMM', 'ParkDist', 
+          #    'Park_Coverage', 'SALE_MONTH', 'SALE_YEAR', 'STORY', 
+          #    'StLights', 'StoreDist', 'TrAccident', 'Tree_Coverage']]
+##############################################
