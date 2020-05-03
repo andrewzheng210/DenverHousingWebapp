@@ -7,7 +7,7 @@ try:
 except:
     os.system("pip install numpy")
     import numpy as np
-
+    
 try:
     import pandas as pd
 except:
@@ -31,7 +31,7 @@ import dash_html_components as html
 try:
     import dash_bootstrap_components as dbc
 except:
-    os.system("pip install dash-bootstrap-components==0.9.2")
+    os.system("pip install dash-bootstrap-components==1.1.1")
     import dash_bootstrap_components as dbc
 try:
     import plotly.graph_objects as go
@@ -56,16 +56,15 @@ def write_about():
             dbc.CardBody(
                 [
                     dcc.Markdown('''
-                        > This project visualizes the analytics of Denver single family housing market, showing both historical and predicted house prices in Denver area.
-
-                        > The key data is the historical house selling price associated with the property details, collected from [Denver open data website](https://www.denvergov.org/opendata).
-                        The original data contains ~200,000 house sales records from 1945 to 2020. Of these, single family house records between 2000 and 2020 were filtered for this project.
-
-                        > We also collected Denver neighborhood-level features from [Redfin](https://www.redfin.com/blog/data-center/) and [Denver website](https://www.denvergov.org/opendata), for the showing of demographical, socio-economic, environmental differences among neighborhoods.
-                        We believed that the quality of the neighborhood would impact house prices.
+                        > This project visualizes the analytics of Denver single family housing market, showing both historical and predicted house prices in Denver area. 
+                        The key data is the historical house selling price associated with the property details, collected from [Denver open data website](https://www.denvergov.org/opendata). 
+                        The original data contains ~200,000 house sales records dated from 1945 to 2020. Of these, single family house records between 2000 and 2020 were filtered for inclusion in this project.
+                        
+                        > To analyze housing market, we also collected Denver neighborhood-level features from [Redfin](https://www.redfin.com/blog/data-center/) and [Denver website](https://www.denvergov.org/opendata), for the showing of demographical, socio-economic, environmental differences among neighborhood.
+                        The hypothesis was that the quality of neighborhood would have an impact on house prices.
 
                         > The final data set is the consumer price index report, collected from [Bureau of Labor Statistics](https://data.bls.gov/cgi-bin/srgate), for inflation adjustment over the year.
-                        '''),
+                    '''),
                 ]
             ),
         ], id = 'data', className = 'eleven columns', style = {'margin-left': 15, 'margin-top': 15, 'margin-right': 30}),
@@ -75,16 +74,15 @@ def write_about():
                 dbc.CardBody(
                     [
                         dcc.Markdown('''
-                            > To link single family house records and neighborhood features, their spatial relationship was applied such that each property was assigned a neighborhood id to extract neighborhood-level attributes. This process was done in the QGIS environment that supported geospatial data editing well.
+                            > Initial data process was done in QGIS environment, due to lack of common keys in different data sets.
+                            To link single family house records and neighborhood features, their spatial relationship was applied such that each property was assigned a neighborhood id to extract neighborhood-level attrbutes.
+                            Also based on spatial relationship, we have summarized key features in each neighborhood, such as number of crimes, traffic accidents, percentage of tree coverage.
+                            Distance to nearest food stores, schools, and parks from each property was also calculated for model preparation.
 
-                            > Also based on spatial relationships, we have summarized key features in each neighborhood, such as the number of crimes, traffic accidents, percentage of tree coverage.
-                            Moreover, we calculated distance to nearest food stores, schools, and parks from each property.
-
-                            > With the processed data, we built an XGBoost model and compared it with a baseline Lasso regression model.
-                            The XGBoost model yielded a mean prediction error of $44K, and a median prediction error of $13K, compared to a $73k mean error and $29K median error from the baseline model.
+                            > With the processed data, we built an XGBoost model and compared with a baseline Lasso regression model. 
+                            The XGBoost model yielded a mean prediction error of $44K, and a median prediction error of $13K, compared to $73k mean error and $29K median error from the baseline model.
 
                             > [Code on Github](https://github.com/lzhao-byte/denver-housing)
-
 
                         '''),
                     ]
@@ -96,21 +94,21 @@ def write_about():
                 dbc.CardBody(
                     [
                         dcc.Markdown('''
-                            > The intent is to provide users with comprehensive knowledge and extensive information related to their househunting in Denver by
-                            integration of historical transaction data, neighborhood characteristics and price predicting model.
-
-                            > Thus, the website mainly consists of three levels of data presentation:
-
+                            > The intent is to provide users with comprehensive knowledge and extensive information related to their househunting in Denver by 
+                            integration of historical transaction data, neighborhood characteristics and price predicting model. 
+                            
+                            > Thus, the website mainly consists of three levels of data presentation: 
+                            
                                 * house price prediction
                                 * neighborhood characteristics
                                 * price comparison with different cities.
+                            
+                            > The website was created with [Plotly Dash](https://plotly.com/) and hosted in [heroku](https://www.heroku.com/). It contains four tabs: 
 
-                            > The website was created with [Plotly Dash](https://plotly.com/) and hosted in [heroku](https://www.heroku.com/). It contains four tabs:
-
-                                * Denver house: where web users see the single family house sale record and our prediction model.
-                                * Denver Neighborhood: where web users see the details of Neighborhood features (Median sales prices and homes sold record between 2000 and 2020, Neighborhood Amenities).
-                                * Denver City: where web users see comparisons among similar cities with Denver.
-                                * About: where web users see a brief explanation of this project.
+                                * Denver house: where the users see historical house records and house price prediction, such as neighborhood, number of bedrooms and bathrooms etc.
+                                * Denver Neighborhood: where all neighborhood features and median sale prices can be queried, serving as a reference of house hunting
+                                * Denver City: where we provide a comprehensive comparison on key housing market metrics with cities that are similar to Denver
+                                * About: where a brief explanation on the project is provided
                         '''),
                     ]
                 ),
@@ -119,11 +117,11 @@ def write_about():
         html.Div([ # about us
             dbc.CardHeader("About Us", style = {'background-color': 'white', 'font-weight': 'bold'}),
             dbc.CardBody(
-                [
+                [ 
                     dcc.Markdown('''
-                    > This website *Denver Single Family Housing Market* was created by *[Wentao Duan](https://www.linkedin.com/in/wentao-duan-b389861a/)*, *[Jingying Guan](/)*,
+                    > This website *Denver Single Family Housing Market* is created by *[Wentao Duan](https://www.linkedin.com/in/wentao-duan-b389861a/)*, *[Jingying Guan](/)*, 
                     *[Li Li](https://www.linkedin.com/in/li-li-69bb60128/)*, *[Liuhui Zhao](https://www.linkedin.com/in/lhzhao/)*, and *[Zehua Zheng](https://www.linkedin.com/in/zehuazheng/)*.
-
+                    
                     > We came from different disciplines, formed *Team Flying Pig*, and accomplished this project for Denver housing market analytics and visualization in Spring, 2020.
                     '''),
                 ]
@@ -174,12 +172,12 @@ def load_markdowns():
 
 #############################################
 ####### xgboost model data structure ########
-#dfx_lr = dfx[['AGE', 'AREA_ABG', 'AVG_HH_INC', 'BACHELORSO', 'BED_RMS',
-          #    'Colleges', 'Crimes', 'DrugDist',
-          #    'FoodStores', 'GRD_AREA', 'BATH_RMS', 'Intersects',
-          #    'K12s', 'LAND_SQFT', 'LESSTHANHS', 'Libraries', 'Malls', 'Marijuana',
-          #    'MaxPctRace', 'PCT_AGE65P', 'PCT_AGELES', 'PER_CAPITA', 'PCT_VAC', 'PER_COMM', 'ParkDist',
-          #    'Park_Coverage', 'SALE_MONTH', 'SALE_YEAR', 'STORY',
+#dfx_lr = dfx[['AGE', 'AREA_ABG', 'AVG_HH_INC', 'BACHELORSO', 'BED_RMS', 
+          #    'Colleges', 'Crimes', 'DrugDist', 
+          #    'FoodStores', 'GRD_AREA', 'BATH_RMS', 'Intersects', 
+          #    'K12s', 'LAND_SQFT', 'LESSTHANHS', 'Libraries', 'Malls', 'Marijuana', 
+          #    'MaxPctRace', 'PCT_AGE65P', 'PCT_AGELES', 'PER_CAPITA', 'PCT_VAC', 'PER_COMM', 'ParkDist', 
+          #    'Park_Coverage', 'SALE_MONTH', 'SALE_YEAR', 'STORY', 
           #    'StLights', 'StoreDist', 'TrAccident', 'Tree_Coverage']]
 ##############################################
 
@@ -197,22 +195,22 @@ def predict_house_xgb(neighbor, bed, bath, story, age, minarea, maxarea, minlot,
         beds = [2, 3]
     else:
         beds.append(bed)
-
+    
     if bath is None:
         baths = [1, 2]
     else:
         baths.append(bath)
-
+    
     if story is None:
         storys = [1, 2]
     else:
         storys.append(story)
-
+    
     if age is None:
         ages = [0, 10]
     else:
         ages = [int(i) for i in age.split('-')]
-
+    
     if minarea is None:
         minarea = 600
     if maxarea is None:
@@ -230,7 +228,7 @@ def predict_house_xgb(neighbor, bed, bath, story, age, minarea, maxarea, minlot,
         parks = [500, 2500]
     else:
         parks.append(park)
-
+    
     if store is None:
         stores = [500, 2500]
     else:
@@ -255,19 +253,19 @@ def predict_house_xgb(neighbor, bed, bath, story, age, minarea, maxarea, minlot,
     parkcover, treecover = stats['ParkA_SqM'].values, stats['TreesA_SqM'].values
 
     sel_columns = ['Story', 'Bedrooms', 'Bathrooms', 'Age of House (yrs)', 'Above Ground Area (sqft)', 'Lot Size (sqft)', 'Distance to Park (meters)', 'Distance to Food Stores (meters)', 'Predicted Price ($)']
-    columns = ['AGE', 'AREA_ABG', 'AVG_HH_INC', 'BACHELORSO', 'BED_RMS',
-                'Colleges', 'Crimes', 'DrugDist',
-                'FoodStores', 'GRD_AREA', 'BATH_RMS', 'Intersects',
-                'K12s', 'LAND_SQFT', 'LESSTHANHS', 'Libraries', 'Malls', 'Marijuana',
-                'MaxPctRace', 'PCT_AGE65P', 'PCT_AGELES', 'PER_CAPITA', 'PCT_VAC', 'PER_COMM', 'ParkDist',
-                'Park_Coverage', 'SALE_MONTH', 'SALE_YEAR', 'STORY',
+    columns = ['AGE', 'AREA_ABG', 'AVG_HH_INC', 'BACHELORSO', 'BED_RMS', 
+                'Colleges', 'Crimes', 'DrugDist', 
+                'FoodStores', 'GRD_AREA', 'BATH_RMS', 'Intersects', 
+                'K12s', 'LAND_SQFT', 'LESSTHANHS', 'Libraries', 'Malls', 'Marijuana', 
+                'MaxPctRace', 'PCT_AGE65P', 'PCT_AGELES', 'PER_CAPITA', 'PCT_VAC', 'PER_COMM', 'ParkDist', 
+                'Park_Coverage', 'SALE_MONTH', 'SALE_YEAR', 'STORY', 
                 'StLights', 'StoreDist', 'TrAccident', 'Tree_Coverage']
 
-    list_of_values = list(product(ages, areas, avg_hh_inc, bachelorso, beds,
-                                colleges, crimes, drugs,
-                                foodstores, grns, baths, intersects,
-                                k12s, lots, lessthanhs, libraries, malls, marijuana,
-                                maxpctrace, pctage65p, pctageless, per_capita, pct_vac, pct_comm, parks,
+    list_of_values = list(product(ages, areas, avg_hh_inc, bachelorso, beds, 
+                                colleges, crimes, drugs, 
+                                foodstores, grns, baths, intersects, 
+                                k12s, lots, lessthanhs, libraries, malls, marijuana, 
+                                maxpctrace, pctage65p, pctageless, per_capita, pct_vac, pct_comm, parks, 
                                 parkcover, months, year, storys,
                                 stlights, stores, traffic, treecover))
 
@@ -300,15 +298,15 @@ def load_files():
     cpi = pd.read_csv('CSVFiles/cpi.csv')
 
     # neighborhood price data for city/neighborhood tab
-    with open('JsonFiles/Neighborhoods.geojson') as geojson_file:
+    with open('JsonFiles/Neighborhoods.geojson') as geojson_file:    
         json_neighbor = json.load(geojson_file)
     neighbor_prices = pd.read_csv('CSVFiles/NeighborPrices.csv')
     neighbors = pd.read_csv('CSVFiles/Neighborhoods.csv')
     neighbor_prices = pd.merge(neighbor_prices, neighbors, left_on = 'NBHD_ID', right_on = 'NBHD_ID')
     neighbor_prices['SALE_PRICE'] = neighbor_prices['SALE_PRICE'].astype(float)
-
+ 
     # single family data for single family tab
-    with open('JsonFiles/SingleFamilyHouses.geojson') as geojson_file:
+    with open('JsonFiles/SingleFamilyHouses.geojson') as geojson_file:    
         json_single_family = json.load(geojson_file)
     family_demo = pd.read_csv('CSVFiles/SingleFamilyDemo.csv', dtype = {'SCHEDNUM':'str'})
     family_dist = pd.read_csv('CSVFiles/FamilyDistances.csv', dtype = {'SCHEDNUM_STR':'str'})
@@ -326,7 +324,7 @@ def load_files():
     nbhd_stats["Tree Coverage(%)"]=(nbhd_stats["TreesA_SqM"]/nbhd_stats["Area_SqM"]*100).round(2)
     nbhd_stats=pd.concat([nbhd_stats.iloc[:,1], nbhd_stats.iloc[:,4:12],nbhd_stats.iloc[:,14:]],axis=1)
     nbhd_stats.rename(columns={"StLights":"Street Lights","NBRHD_NAME":"Neighborhood",
-                        "Marijuana":"Marijuana Business","Crimes":"Annual Crimes",
+                        "Marijuana":"Marijuana Business","Crimes":"Annual Crimes", 
                         "TrAccident":"Annual Traffic Accidents"},inplace=True)
     nbhd_stats["Annual Crimes"]=(nbhd_stats["Annual Crimes"]/4).astype(int)
     nbhd_stats["Annual Traffic Accidents"]=(nbhd_stats["Annual Traffic Accidents"]/4).astype(int)
@@ -347,7 +345,7 @@ def load_files():
 def draw_family_base_map(json_single_family, family_demo, family_dist):
     return {
         'data': [{
-            'type': "choroplethmapbox",
+            'type': "choroplethmapbox", 
             'geojson': json_single_family,
             'locations': family_dist['SCHEDNUM_STR'],
             'z': family_dist['StoreDist'],
@@ -356,12 +354,12 @@ def draw_family_base_map(json_single_family, family_demo, family_dist):
             'marker': {'opacity': 1.0, 'line': {'color': 'lightgrey'}},
             'hovertemplate': "%{location} <br>Median Sale Price (2019): $%{z:,.f}",
             'colorbar':{
-                'title': {'text': 'Neighborhood Median Sale Price 2019'},
+                'title': {'text': 'Neighborhood Median Sale Price 2019'}, 
                 'x': 0},
             'colorscale': 'YlOrRd',
             'reversescale': True,
             }],
-
+    
         'layout': {
             'clickmode': 'event+select',
             'margin': {"r":10,"t":10,"l":10,"b":10},
@@ -371,7 +369,7 @@ def draw_family_base_map(json_single_family, family_demo, family_dist):
             'mapbox': {
                 'center': {'lat': 39.7114, 'lon': -104.9360},
                 'zoom': 10.5,
-                'style': 'white-bg',
+                'style': 'white-bg',  
                 'layers': [
                     {
                         'source': ['https://stamen-tiles.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.jpg'],
@@ -379,14 +377,14 @@ def draw_family_base_map(json_single_family, family_demo, family_dist):
                         'sourcetype': 'raster',
                         'below': 'traces',
                     },
-                ],
+                ],                             
             },
         }
     }
 
-def draw_base_map(json_neighbor, neighbor_prices, neighbor_house_record, sel_nbhd):
+def draw_base_map(json_neighbor, neighbor_prices, neighbor_house_record, sel_nbhd):			
     data=[{
-            'type': "choroplethmapbox",
+            'type': "choroplethmapbox", 
             'geojson': json_neighbor,
             'locations': neighbor_prices[neighbor_prices['SALE_YEAR'] == 2019]['NBHD_NAME'].astype(str),
             'z': neighbor_prices[neighbor_prices['SALE_YEAR'] == 2019]['SALE_PRICE'],
@@ -395,7 +393,7 @@ def draw_base_map(json_neighbor, neighbor_prices, neighbor_house_record, sel_nbh
             'marker': {'opacity': 0.5, 'line': {'color': 'lightgrey'}},
             'hovertemplate': "%{location} <br>Median Sale Price (2019): $%{z:,.f}",
             'colorbar':{
-                'title': {'text': 'Neighborhood Median Sale Price 2019'},
+                'title': {'text': 'Neighborhood Median Sale Price 2019'}, 
                 'x': 0},
             'colorscale': 'YlOrRd',
             'reversescale': True,
@@ -415,7 +413,7 @@ def draw_base_map(json_neighbor, neighbor_prices, neighbor_house_record, sel_nbh
         'mapbox': {
             'center': {'lat': 39.7114, 'lon': -104.9360},
             'zoom': 10.5,
-            'style': 'white-bg',
+            'style': 'white-bg',  
             'layers': [
                 {
                     'source': ['https://stamen-tiles.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.jpg'],
@@ -431,11 +429,11 @@ def draw_base_map(json_neighbor, neighbor_prices, neighbor_house_record, sel_nbh
                     'color': 'grey',
                     'fill': {'outlinecolor': 'red'}
                 }
-            ],
+            ],                             
         },
     }
     return {
-        'data': data,
+        'data': data,  
         'layout': layout
     }
 
@@ -461,9 +459,9 @@ def update_house_base_map(json_single_family, family_demo, json_neighbor, neighb
                 'colorscale': 'Reds',
                 'showlegend': False,
                 'colorbar':{
-                    'title': {'text': 'Sale Price ($)'},
+                    'title': {'text': 'Sale Price ($)'}, 
                     'x': 0},
-            }
+            }           
             ],
 
         'layout': {
@@ -480,7 +478,7 @@ def update_house_base_map(json_single_family, family_demo, json_neighbor, neighb
                     {
                         'source': json_neighbor,
                         'below': 'traces',
-                        'type': "fill",
+                        'type': "fill",     
                         'color': 'yellow',
                         'opacity': 0.05,
                         'fill': {'outlinecolor': 'red', 'outlinewidth': 2}
@@ -490,24 +488,24 @@ def update_house_base_map(json_single_family, family_demo, json_neighbor, neighb
         }
     }
 
-# update house hunting map
+# update house hunting map  
 def update_house_base_map_origin(sel_nbhd, json_neighbor, neighbor_house_record):
     return {
         'data': [{
-                'type': "choroplethmapbox",
+                'type': "choroplethmapbox", 
                 'geojson': json_neighbor,
                 'locations': neighbor_house_record[neighbor_house_record['NBHD_NAME'] == sel_nbhd]['NBHD_NAME'].astype(str),
                 'z': neighbor_house_record[neighbor_house_record['NBHD_NAME'] == sel_nbhd]['SALE_PRICE'] / 10.,
                 'name': '',
                 'featureidkey': 'properties.NBHD_NAME',
                 'marker': {'opacity': 1.0, 'line': {'color': 'lightgrey'}},
-                'hovertemplate': "%{location} <br>Annual Average Single Family House Sales: %{z:.0f}",
-                'showscale': False,
+                'hovertemplate': "%{location} <br>Annual Average Single Family House Sales: %{z:.0f}",   
+                'showscale': False,   
                 'colorscale': 'Blues',
             },
 
             {
-                'type': "choroplethmapbox",
+                'type': "choroplethmapbox", 
                 'geojson': json_neighbor,
                 'locations': neighbor_house_record[neighbor_house_record['NBHD_NAME'] != sel_nbhd]['NBHD_NAME'].astype(str),
                 'z': neighbor_house_record[neighbor_house_record['NBHD_NAME'] != sel_nbhd]['SALE_PRICE'] / 10.,
@@ -518,7 +516,7 @@ def update_house_base_map_origin(sel_nbhd, json_neighbor, neighbor_house_record)
                 'showscale': False,
                 'colorscale': 'Reds',
             }],
-
+        
         'layout': {
             'margin': {"r":10, "t": 0, "l":10,"b":10},
             'hovermode': 'closest',
@@ -526,14 +524,14 @@ def update_house_base_map_origin(sel_nbhd, json_neighbor, neighbor_house_record)
             'mapbox': {
                 'center': {'lat': 39.7114, 'lon': -104.9360},
                 'zoom': 11,
-                'style': 'white-bg',
+                'style': 'white-bg',                    
                 'layers': [
                         {
                         'source': ['https://stamen-tiles.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.jpg'],
                         'opacity': 0.3,
                         'sourcetype': 'raster',
                         'below': 'traces',
-                    }],
+                    }],                              
             },
         }
     }
@@ -543,7 +541,7 @@ def draw_house_base_map(json_neighbor, neighbor_house_record):
     return {
         'data': [
                 {
-                'type': "choroplethmapbox",
+                'type': "choroplethmapbox", 
                 'geojson': json_neighbor,
                 'locations': neighbor_house_record['NBHD_NAME'].astype(str),
                 'z': neighbor_house_record['SALE_PRICE'] / 10.,
@@ -555,7 +553,7 @@ def draw_house_base_map(json_neighbor, neighbor_house_record):
                  'colorscale': 'Reds',
             }
             #{
-            #'type': "scattermapbox",
+            #'type': "scattermapbox", 
             #'lon': neighbor_house_record['Lon'],
             #'lat': neighbor_house_record['Lat'],
             #'text': neighbor_house_record['NBHD_NAME'] + '<br>' + 'Annual Average Houses Sold: ' + neighbor_house_record['SALE_PRICE'].apply(lambda x: round(x/10.)).astype(str),
@@ -564,7 +562,7 @@ def draw_house_base_map(json_neighbor, neighbor_house_record):
             #'opacity': 0,
             #}
             ],
-
+    
         'layout': {
             'margin': {"r":10, "t": 0, "l":10,"b":10},
             'hovermode': 'closest',
@@ -572,7 +570,7 @@ def draw_house_base_map(json_neighbor, neighbor_house_record):
             'mapbox': {
                 'center': {'lat': 39.7114, 'lon': -104.9360},
                 'zoom': 11,
-                'style': 'white-bg',
+                'style': 'white-bg', 
                 'layers': [
                     {
                         'source': ['https://stamen-tiles.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.jpg'],
@@ -583,12 +581,12 @@ def draw_house_base_map(json_neighbor, neighbor_house_record):
                     #{
                     #    'source': json_neighbor,
                     #    'below': 'traces',
-                    #    'type': "fill",
+                    #    'type': "fill",     
                     #    'color': 'grey',
                     #    'opacity': 0.3,
                     #    'paint': {'line': {'color': 'white'}}
                     #}
-                ],
+                ],                 
             },
         }
     }
@@ -638,7 +636,7 @@ def family_demo_filter(min_price, max_price, min_year, max_year, min_bed, max_be
     geodf = [f for f in json_single_family['features'] if f['properties']['NBRHD_NAME'] == neighbor]
     geodf = {"type": "FeatureCollection", "name": "SingleFamilyHouses", "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } }, "features": geodf}
 
-    return geodf, sel_df
+    return geodf, sel_df    
 
 def load_neighbor_features():
     with open('JsonFiles/NeighborParks.geojson') as json_file:
@@ -668,7 +666,7 @@ def draw_store_map(sel_nbhd, features, parks, json_neighbor, neighbor_centers):
             symbol = 'grocery'
         elif tp == 'Shopping Center':
             symbol = 'shop'
-
+        
         if access_token == '':
             marker = {'size': 16},
             style = 'stamen-terrain'
@@ -679,7 +677,7 @@ def draw_store_map(sel_nbhd, features, parks, json_neighbor, neighbor_centers):
             legend = False
 
         data_dict = {
-            'type': "scattermapbox",
+            'type': "scattermapbox", 
             'lon': sel_features[sel_features['Type'] == tp]['Lon'].values,
             'lat': sel_features[sel_features['Type'] == tp]['Lat'].values,
             'text': sel_features[sel_features['Type'] == tp]['Name'].values + '__' + sel_features[sel_features['Type'] == tp]['NBRHD_NAME'].values[0],
@@ -694,7 +692,7 @@ def draw_store_map(sel_nbhd, features, parks, json_neighbor, neighbor_centers):
 
     return {
         'data': data,
-
+    
         'layout': {
             'title': "Points of Interests",
             'height': 600,
@@ -707,11 +705,11 @@ def draw_store_map(sel_nbhd, features, parks, json_neighbor, neighbor_centers):
                 'zoom': zoom,
                 'style': style,
                 'accesstoken': access_token,
-                'layers': [
+                'layers': [                 
                     {
                         'source': json_neighbor,
                         'below': 'traces',
-                        'type': "fill",
+                        'type': "fill",     
                         'color': 'yellow',
                         'opacity': 0.1,
                         'fill': {'outlinecolor': 'red'}
@@ -719,12 +717,14 @@ def draw_store_map(sel_nbhd, features, parks, json_neighbor, neighbor_centers):
                     {
                         'source': parks,
                         'below': 'traces',
-                        'type': "fill",
+                        'type': "fill",     
                         'color': 'green',
                         'opacity': 0.2,
                         'fill': {'outlinecolor': 'white'}
                     },
-                ],
+                ],                  
             },
         }
     }
+
+
