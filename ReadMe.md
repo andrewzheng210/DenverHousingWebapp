@@ -1,7 +1,7 @@
 ## Project Description
 This repository hosts source code for our project on Denver housing market analytics. This project visualizes the analytics of Denver single family housing market, showing both historical and predicted house prices in Denver area. 
 
-If you are interested, please view our formal project [report](https://drive.google.com/file/d/1_j8is6x3aQv_Hvd2GP2FXoCjbBzGXhKf/view?usp=sharing) in a Google Drive link.
+If you are interested, please view or download our formal project [report](https://drive.google.com/file/d/1_j8is6x3aQv_Hvd2GP2FXoCjbBzGXhKf/view?usp=sharing) in a Google Drive link.
 
 
 ## File Structure
