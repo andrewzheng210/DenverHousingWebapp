@@ -1,3 +1,12 @@
+## Project Achievements
+
+Implemented feature engineering of neighborhood and property features, spatially combined and cleaned the data
+
+Tuned four machine learning models (Lasso regression, artificial neural network, random forest and XGBoost) and found the best one to predict house prices with a root mean square error of 44K and a median absolute error of 13K
+
+Built an interactive [website](https://test-denver.herokuapp.com/) using Plotly Dash for house price prediction and data visualization
+
+
 ## Project Description
 This repository hosts source code for our project on Denver housing market analytics. This project visualizes the analytics of Denver single family housing market, showing both historical and predicted house prices in Denver area. 
 
